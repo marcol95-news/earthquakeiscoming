@@ -1,140 +1,176 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Natascha Ochsenknecht,Natascha Ochsenknecht,PER,0.09166666666666666,0.0,de,12,,,,,,
-Luka Doncic,Luka Doncic,PER,0.5,0.0,de,7,,,,,,
-Harald Glööckler,Harald Glööckler,PER,0.2833333333333333,0.0,de,6,,,,,,
-Franziska Amler,Franziska Amler,PER,0.0,0.0,de,5,,,,,,
-Min Aung Hlaing,Min Aung Hlaing,PER,0.13999999999999999,0.2,de,5,,,,,,
-Jost Kobusch,Jost Kobusch,PER,0.13999999999999999,0.0,de,5,,,,,,
-Zohran Mamdani,Zohran Mamdani,PER,0.27999999999999997,0.0,de,5,,,,,,
-Sabihullah Mudschahid,Sabihullah Mudschahid,PER,-0.125,0.875,de,4,,,,,,
-Ozzy Osbourne,Ozzy Osbourne,PER,-0.6999999999999998,0.0,de,4,,,,,,
-Charlie Kirk,Charlie Kirk,PER,-1.0,0.0,de,4,,,,,,
-Donald Trump,Donald Trump,PER,-0.2520833333333333,0.0,de,4,,,,,,
-Nils Goseberg,Nils Goseberg,PER,0.0,0.0,de,4,,,,,,
-Marco Bohnhoff,Marco Bohnhoff,PER,0.0,0.0,de,3,,,,,,
-Paolo Rumiz,Paolo Rumiz,PER,0.0,0.0,de,3,,,,,,
-Erdbebenwarte Kandilli,Erdbebenwarte Kandilli,PER,0.0,0.0,de,3,,,,,,
-Friedrich Merz,Friedrich Merz,PER,0.2333333333333333,0.0,de,3,,,,,,
-Emmi Zeulner,Emmi Zeulner,PER,0.0,0.0,de,3,,,,,,
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.14444444444444446,0.0,de,3,,,,,,
-Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,3,,,,,,
-Cooper Flagg,Cooper Flagg,PER,0.4666666666666666,0.0,de,3,,,,,,
-Ali Yerlikaya,Ali Yerlikaya,PER,0.0,0.0,de,3,,,,,,
-Andrej Babis,Andrej Babis,PER,0.0,0.0,de,3,,,,,,
-Markus Fiebig,Markus Fiebig,PER,0.0,0.0,de,2,,,,,,
-Aya Mawed,Aya Mawed,PER,0.0,0.0,de,2,,,,,,
-Geoforschende warnen,Geoforschende warnen,PER,-0.7,0.0,de,2,,,,,,
-Christa Hammerl,Christa Hammerl,PER,0.175,0.25,de,2,,,,,,
-Michael Jordan,Michael Jordan,PER,0.0,0.0,de,2,,,,,,
-Tommy Walker,Tommy Walker,PER,0.0,0.0,de,2,,,,,,
-Henry Braun,Henry Braun,PER,0.0,0.0,de,2,,,,,,
-Nick Woltemades,Nick Woltemades,PER,0.35,0.0,de,2,,,,,,
-Tim Cook,Tim Cook,PER,0.35,0.0,de,2,,,,,,
-Eva Pattis Zoja,Eva Pattis Zoja,PER,0.0,0.0,de,2,,,,,,
-Kurt Decker,Kurt Decker,PER,0.0,0.0,de,2,,,,,,
-Charles Maung Bo,Charles Maung Bo,PER,0.0,0.0,de,2,,,,,,
-Helmut Hetzel,Helmut Hetzel,PER,-0.07500000000000001,0.0,de,2,,,,,,
-Andrew Cuomo,Andrew Cuomo,PER,0.7,0.0,de,2,,,,,,
-Ex-Kanzlerin Merkel,Ex-Kanzlerin Merkel,PER,0.0,0.0,de,2,,,,,,
-Markos Bardhoshi,Markos Bardhoshi,PER,0.0,0.0,de,2,,,,,,
-Christopher Rüping,Christopher Rüping,PER,0.0,0.0,de,2,,,,,,
-Dennis Schröder,Dennis Schröder,PER,0.7,0.0,de,2,,,,,,
-Tatjana Ohm,Tatjana Ohm,PER,0.0,0.0,de,2,,,,,,
-Verbliebene Plünderungen,Verbliebene Plünderungen,PER,-0.5,0.5,de,2,,,,,,
-Aret Demirci,Aret Demirci,PER,-0.5,0.0,de,2,,,,,,
-Camino Kavanagh,Camino Kavanagh,PER,0.35,0.0,de,2,,,,,,
-Istanbuls Erdbebenserie,Istanbuls Erdbebenserie,PER,0.0,0.0,de,2,,,,,,
-Dirk Kurbjuweit,Dirk Kurbjuweit,PER,0.0,0.0,de,2,,,,,,
-Leo XIV,Leo XIV,PER,0.0,0.0,de,2,,,,,,
-Ehsanullah Ehsan,Ehsanullah Ehsan,PER,-0.21250000000000002,0.0,de,2,,,,,,
-Marcus Tychsen,Marcus Tychsen,PER,0.0,0.0,de,2,,,,,,
-Marco Pilz,Marco Pilz,PER,-0.35,0.0,de,2,,,,,,
-Torsten Dahm,Torsten Dahm,PER,-0.07500000000000001,0.0,de,2,,,,,,
-nan Mitten,nan Mitten,PER,0.0,0.0,de,1,,,,,,
-Alexander Piragis,Alexander Piragis,PER,-1.0,0.0,de,1,,,,,,
-Laura Dahlmeier,Laura Dahlmeier,PER,0.0,0.0,de,1,,,,,,
-Pina Perrotta,Pina Perrotta,PER,0.0,0.0,de,1,,,,,,
-Raju Roka,Raju Roka,PER,0.0,0.0,de,1,,,,,,
-Optimieren Si,Optimieren Si,PER,0.0,0.0,de,1,,,,,,
-Alexander Ow,Alexander Ow,PER,0.0,0.0,de,1,,,,,,
-Munich Re,Munich Re,PER,-0.7,0.0,de,1,,,,,,
-Sergej Lebedew,Sergej Lebedew,PER,0.0,0.0,de,1,,,,,,
-Rafaelito Alejandro,Rafaelito Alejandro,PER,-0.7,0.0,de,1,,,,,,
-Bernardo Rafaelito Alejandro IV,Bernardo Rafaelito Alejandro IV,PER,0.0,0.0,de,1,,,,,,
-Alfie Reynes,Alfie Reynes,PER,0.7,0.0,de,1,,,,,,
-Felipe Cabague,Felipe Cabague,PER,0.0,0.0,de,1,,,,,,
-Thomas Kemmerich,Thomas Kemmerich,PER,0.0,0.0,de,1,,,,,,
-Ernst Führich,Ernst Führich,PER,0.0,0.0,de,1,,,,,,
-Fee-Alexandra Rodler,Fee-Alexandra Rodler,PER,0.0,0.0,de,1,,,,,,
-Schäden Kopiere,Schäden Kopiere,PER,-0.7,0.0,de,1,,,,,,
-Saskia Esken,Saskia Esken,PER,0.0,0.0,de,1,,,,,,
-Bonnie Nelson,Bonnie Nelson,PER,0.0,0.0,de,1,,,,,,
-Profi-Bergsteiger Jost,Profi-Bergsteiger Jost,PER,0.0,0.0,de,1,,,,,,
-Benjamin Eyssel,Benjamin Eyssel,PER,0.0,0.0,de,1,,,,,,
-Extreme Hitze,Extreme Hitze,PER,0.0,1.0,de,1,,,,,,
-Samira Sayed Rahman,Samira Sayed Rahman,PER,-0.7,0.0,de,1,,,,,,
-nan Wenige Tage,nan Wenige Tage,PER,0.0,1.0,de,1,,,,,,
-Mohammed Hammad,Mohammed Hammad,PER,-0.85,0.0,de,1,,,,,,
-Vize-Regierungssprecher Hamdullah Fitrat,Vize-Regierungssprecher Hamdullah Fitrat,PER,-0.85,0.0,de,1,,,,,,
-Mohammed Haschem,Mohammed Haschem,PER,0.0,0.0,de,1,,,,,,
-Qamar Gul Nasrat,Qamar Gul Nasrat,PER,0.0,1.0,de,1,,,,,,
-Rot-Kreuz-Experte Christopher Jahn,Rot-Kreuz-Experte Christopher Jahn,PER,0.0,0.0,de,1,,,,,,
-Azams Tür,Azams Tür,PER,0.7,0.0,de,1,,,,,,
-Maria Vittoria Cavalcoli,Maria Vittoria Cavalcoli,PER,0.0,0.0,de,1,,,,,,
-Giuseppe Mastrolorenzo,Giuseppe Mastrolorenzo,PER,0.0,0.0,de,1,,,,,,
-Olga Girina,Olga Girina,PER,0.0,0.0,de,1,,,,,,
-Andrea Deaglio,Andrea Deaglio,PER,0.0,0.0,de,1,,,,,,
-Bibi Ayshas,Bibi Ayshas,PER,0.0,0.0,de,1,,,,,,
-BILD-Reporter Kai Feldhaus,BILD-Reporter Kai Feldhaus,PER,0.0,0.0,de,1,,,,,,
-Esken Rückblick,Esken Rückblick,PER,-0.3333333333333333,0.6666666666666666,de,1,,,,,,
-Gabriel Petrescu,Gabriel Petrescu,PER,-0.85,0.0,de,1,,,,,,
-Mohammed Dschawad Sarif,Mohammed Dschawad Sarif,PER,-0.85,0.0,de,1,,,,,,
-Mysteriöses Tiefsee-Wesen,Mysteriöses Tiefsee-Wesen,PER,0.0,0.0,de,1,,,,,,
-Davide Deiana,Davide Deiana,PER,0.85,0.0,de,1,,,,,,
-Sofie Reichel,Sofie Reichel,PER,0.7,0.0,de,1,,,,,,
-George Kaviris,George Kaviris,PER,0.85,0.0,de,1,,,,,,
-John Vidale,John Vidale,PER,0.0,0.0,de,1,,,,,,
-nan Eines,nan Eines,PER,0.7,0.0,de,1,,,,,,
-George Town,George Town,PER,0.7,0.0,de,1,,,,,,
-Ernst d,Ernst d,PER,0.0,0.0,de,1,,,,,,
-Bernardo Rafaelito,Bernardo Rafaelito,PER,0.0,0.0,de,1,,,,,,
-Dimitris Papazachos,Dimitris Papazachos,PER,0.0,0.0,de,1,,,,,,
-Alexa von der Reck,Alexa von der Reck,PER,-0.7,0.0,de,1,,,,,,
-Sabrina Hübscher,Sabrina Hübscher,PER,-0.7,0.0,de,1,,,,,,
-Kevin Vennemann,Kevin Vennemann,PER,0.7,0.0,de,1,,,,,,
-Charlie Hebdo,Charlie Hebdo,PER,0.0,0.0,de,1,,,,,,
-Beschädigtes Heiligtum,Beschädigtes Heiligtum,PER,0.0,0.0,de,1,,,,,,
-Ferdinand Marcos junior,Ferdinand Marcos junior,PER,-0.15000000000000002,0.0,de,1,,,,,,
-Was ko,Was ko,PER,0.7,0.0,de,1,,,,,,
-Emrah Gurel,Emrah Gurel,PER,0.7,0.0,de,1,,,,,,
-Elmar Theveßen,Elmar Theveßen,PER,1.0,0.0,de,1,,,,,,
-Vize-Zivilschutzleiter Rafaelito Alejandro,Vize-Zivilschutzleiter Rafaelito Alejandro,PER,0.0,0.0,de,1,,,,,,
-Oliver Berg,Oliver Berg,PER,0.0,0.0,de,1,,,,,,
-Gül Güler,Gül Güler,PER,-0.7,0.0,de,1,,,,,,
-Simon N,Simon N,PER,0.0,0.0,de,1,,,,,,
-Manfred Webers,Manfred Webers,PER,0.0,0.0,de,1,,,,,,
-Idris Akbiyik,Idris Akbiyik,PER,0.0,0.0,de,1,,,,,,
-Shigeru Ishiba,Shigeru Ishiba,PER,0.0,0.0,de,1,,,,,,
-Halb Hollywood,Halb Hollywood,PER,0.0,0.0,de,1,,,,,,
-nan Der,nan Der,PER,-0.7,0.0,de,1,,,,,,
-Bruno Kelly,Bruno Kelly,PER,1.0,0.0,de,1,,,,,,
-Min Aung Hlaings,Min Aung Hlaings,PER,0.0,0.0,de,1,,,,,,
-Anna-Lou Beckmann,Anna-Lou Beckmann,PER,0.0,0.0,de,1,,,,,,
-Yoshinori Moriwaki,Yoshinori Moriwaki,PER,-0.7,0.0,de,1,,,,,,
-Erdbebenforscher Naci Görür,Erdbebenforscher Naci Görür,PER,0.0,0.0,de,1,,,,,,
-Nico Harri,Nico Harri,PER,0.7,0.0,de,1,,,,,,
-JD Vance,JD Vance,PER,0.0,0.0,de,1,,,,,,
-Tawee Sodsong,Tawee Sodsong,PER,0.15000000000000002,0.0,de,1,,,,,,
-Stefan Dornbusch,Stefan Dornbusch,PER,-1.0,0.0,de,1,,,,,,
-Anna Yordanova,Anna Yordanova,PER,1.0,0.0,de,1,,,,,,
-Jennifer Johnston,Jennifer Johnston,PER,0.0,0.0,de,1,,,,,,
-Minh Aung Hlaing,Minh Aung Hlaing,PER,0.0,0.0,de,1,,,,,,
-Alexander Albon,Alexander Albon,PER,-1.0,0.0,de,1,,,,,,
-F1-Star Alexander Albon,F1-Star Alexander Albon,PER,0.0,0.0,de,1,,,,,,
-Susan Hough,Susan Hough,PER,0.7,0.0,de,1,,,,,,
-Anke Boysen,Anke Boysen,PER,0.0,0.0,de,1,,,,,,
-Georg Bätzin,Georg Bätzin,PER,-1.0,0.0,de,1,,,,,,
-Georg Bätzing von Limburg,Georg Bätzing von Limburg,PER,-1.0,0.0,de,1,,,,,,
-Florian Bahrdt,Florian Bahrdt,PER,-0.7,0.0,de,1,,,,,,
-Albrecht Broemme,Albrecht Broemme,PER,0.0,0.0,de,1,,,,,,
-Dirk Nowitzki,Dirk Nowitzki,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Harald Glööckler,Harald Glööckler,PER,0.2833333333333333,0.0,de,6
+Natascha Ochsenknecht,Natascha Ochsenknecht,PER,0.2333333333333333,0.0,de,6
+Min Aung Hlaing,Min Aung Hlaing,PER,-0.05000000000000001,0.16666666666666666,de,6
+Jost Kobusch,Jost Kobusch,PER,0.11666666666666665,0.0,de,6
+Luka Doncic,Luka Doncic,PER,0.7,0.0,de,5
+Franziska Amler,Franziska Amler,PER,0.0,0.0,de,5
+Sabihullah Mudschahid,Sabihullah Mudschahid,PER,-0.125,0.875,de,4
+Mehr al,Mehr al,PER,0.0,1.0,de,4
+Zohran Mamdani,Zohran Mamdani,PER,0.35,0.0,de,4
+Nils Goseberg,Nils Goseberg,PER,0.0,0.0,de,4
+Donald Trump,Donald Trump,PER,-0.2520833333333333,0.0,de,4
+Pazifischer Feuerring,Pazifischer Feuerring,PER,-0.175,0.0,de,4
+Myanmar hart,Myanmar hart,PER,0.4666666666666666,0.0,de,3
+Paolo Rumiz,Paolo Rumiz,PER,0.0,0.0,de,3
+Emmi Zeulner,Emmi Zeulner,PER,0.0,0.0,de,3
+Rechtspopulistin Le Pen von Wahlen,Rechtspopulistin Le Pen von Wahlen,PER,-0.2333333333333333,0.0,de,3
+Friedrich Merz,Friedrich Merz,PER,0.2333333333333333,0.0,de,3
+Marco Bohnhoff,Marco Bohnhoff,PER,0.0,0.0,de,3
+Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,3
+Fernost-Region Kamtschatka,Fernost-Region Kamtschatka,PER,0.4666666666666666,0.0,de,3
+Ali Yerlikaya,Ali Yerlikaya,PER,0.0,0.0,de,3
+Liberty Mutual,Liberty Mutual,PER,0.0,0.0,de,3
+Taliban k,Taliban k,PER,0.0,0.0,de,3
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.14444444444444446,0.0,de,3
+Andrej Babis,Andrej Babis,PER,0.0,0.0,de,3
+Le Pen,Le Pen,PER,0.0,0.0,de,2
+Droht Krawall,Droht Krawall,PER,0.0,0.0,de,2
+Kurt Decker,Kurt Decker,PER,0.0,0.0,de,2
+Myanmar beri,Myanmar beri,PER,0.0,0.0,de,2
+Dirk Kurbjuweit,Dirk Kurbjuweit,PER,0.0,0.0,de,2
+Michael Jordan,Michael Jordan,PER,0.0,0.0,de,2
+Charles Maung Bo,Charles Maung Bo,PER,0.0,0.0,de,2
+Tatjana Ohm,Tatjana Ohm,PER,0.0,0.0,de,2
+Istanbuls Erdbebenserie,Istanbuls Erdbebenserie,PER,0.0,0.0,de,2
+Seismologe Bohnhoff,Seismologe Bohnhoff,PER,0.0,0.0,de,2
+Erdbeben Myanmar,Erdbeben Myanmar,PER,0.0,0.0,de,2
+Christopher Rüping,Christopher Rüping,PER,0.0,0.0,de,2
+Tommy Walker,Tommy Walker,PER,0.0,0.0,de,2
+Andrew Cuomo,Andrew Cuomo,PER,0.7,0.0,de,2
+Markus Fiebig,Markus Fiebig,PER,0.0,0.0,de,2
+Eva Pattis Zoja,Eva Pattis Zoja,PER,0.0,0.0,de,2
+Nick Woltemades,Nick Woltemades,PER,0.35,0.0,de,2
+einemr Erdbebenserie,einemr Erdbebenserie,PER,0.0,0.0,de,2
+Ehsanullah Ehsan,Ehsanullah Ehsan,PER,-0.21250000000000002,0.0,de,2
+Charlie Kirk,Charlie Kirk,PER,-1.0,0.0,de,2
+Bernardo Rafaelito,Bernardo Rafaelito,PER,0.0,0.0,de,2
+Henry Braun von der Welthungerhilfe,Henry Braun von der Welthungerhilfe,PER,0.0,0.0,de,2
+Camino Kavanagh,Camino Kavanagh,PER,0.35,0.0,de,2
+Dennis Schröder,Dennis Schröder,PER,0.7,0.0,de,2
+Ferieninsel Santorini,Ferieninsel Santorini,PER,0.35,0.0,de,2
+Marcus Tychsen,Marcus Tychsen,PER,0.0,0.0,de,2
+Markos Bardhoshi,Markos Bardhoshi,PER,0.0,0.0,de,2
+Marco Pilz,Marco Pilz,PER,-0.35,0.0,de,2
+CDU-Chef Merz,CDU-Chef Merz,PER,0.0,0.0,de,2
+Helmut Hetzel,Helmut Hetzel,PER,-0.07500000000000001,0.0,de,2
+Seismologe Torsten Dahm,Seismologe Torsten Dahm,PER,-0.07500000000000001,0.0,de,2
+Friaul Julisch,Friaul Julisch,PER,0.7,0.0,de,2
+Bonnie Nelson,Bonnie Nelson,PER,0.0,0.0,de,1
+OpenAIs o1,OpenAIs o1,PER,0.6999999999999998,0.0,de,1
+Raluca Nicola,Raluca Nicola,PER,0.7,0.0,de,1
+SPD-Chefin Saskia,SPD-Chefin Saskia,PER,0.0,0.0,de,1
+Drake Passage,Drake Passage,PER,0.0,0.0,de,1
+Giuseppe Mastrolorenzo,Giuseppe Mastrolorenzo,PER,0.0,0.0,de,1
+Maria Vittoria Cavalcoli,Maria Vittoria Cavalcoli,PER,0.0,0.0,de,1
+Milorad Dodik,Milorad Dodik,PER,0.0,1.0,de,1
+Milorad Dodiks,Milorad Dodiks,PER,-1.0,0.0,de,1
+Kevin Vennemann,Kevin Vennemann,PER,0.7,0.0,de,1
+Ozzy Osbourne,Ozzy Osbourne,PER,-0.6999999999999998,0.0,de,1
+Rot-Kreuz-Experte Christopher Jahn,Rot-Kreuz-Experte Christopher Jahn,PER,0.0,0.0,de,1
+Olga Girina,Olga Girina,PER,0.0,0.0,de,1
+Sabrina Hübscher,Sabrina Hübscher,PER,-0.7,0.0,de,1
+Andrea Deaglio,Andrea Deaglio,PER,0.0,0.0,de,1
+Meterhohe Tsunamiwellen,Meterhohe Tsunamiwellen,PER,0.0,0.0,de,1
+Sergej Lebedew,Sergej Lebedew,PER,0.0,0.0,de,1
+Meterhohe Tsunami-Wellen,Meterhohe Tsunami-Wellen,PER,0.0,0.0,de,1
+Laura Dahlmeier,Laura Dahlmeier,PER,0.0,0.0,de,1
+Alexander Ow,Alexander Ow,PER,0.0,0.0,de,1
+Sapo unt,Sapo unt,PER,0.0,0.0,de,1
+Anti-Korruptionsbehörden Nabu,Anti-Korruptionsbehörden Nabu,PER,0.0,0.0,de,1
+Anwohner sol,Anwohner sol,PER,0.0,0.0,de,1
+Neapel  ,Neapel  ,PER,0.7,0.0,de,1
+Azams Tür,Azams Tür,PER,0.7,0.0,de,1
+geschundenes Land,geschundenes Land,PER,-1.0,0.0,de,1
+Qamar Gul,Qamar Gul,PER,0.0,1.0,de,1
+Felipe Cabague,Felipe Cabague,PER,0.0,0.0,de,1
+Neapels Peripherie,Neapels Peripherie,PER,0.0,0.0,de,1
+Don Maurizios,Don Maurizios,PER,0.0,0.0,de,1
+Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1
+Spitzname Bongbong,Spitzname Bongbong,PER,-0.15000000000000002,0.0,de,1
+Ferdinand Marcos junior,Ferdinand Marcos junior,PER,-0.15000000000000002,0.0,de,1
+Trumps Gaza-Plan,Trumps Gaza-Plan,PER,0.0,0.0,de,1
+Trumps Wahlsieg,Trumps Wahlsieg,PER,0.7,0.0,de,1
+Elmar Theveßen,Elmar Theveßen,PER,1.0,0.0,de,1
+Vize-Zivilschutzleiter Rafaelito Alejandro,Vize-Zivilschutzleiter Rafaelito Alejandro,PER,0.0,0.0,de,1
+Rafaelito Alejandro,Rafaelito Alejandro,PER,-0.7,0.0,de,1
+Alejandro IV,Alejandro IV,PER,0.0,0.0,de,1
+Charlie Hebdo,Charlie Hebdo,PER,0.0,0.0,de,1
+Alfie Reynes,Alfie Reynes,PER,0.7,0.0,de,1
+türkisblaues Meer Santorin,türkisblaues Meer Santorin,PER,0.0,0.0,de,1
+Pina Perrotta,Pina Perrotta,PER,0.0,0.0,de,1
+Venezuelas Krisen,Venezuelas Krisen,PER,0.0,0.0,de,1
+Thomas Kemmerich,Thomas Kemmerich,PER,0.0,0.0,de,1
+Benjamin Eyssel,Benjamin Eyssel,PER,0.0,0.0,de,1
+Ernst Führich,Ernst Führich,PER,0.0,0.0,de,1
+Frau Rahman,Frau Rahman,PER,0.0,0.0,de,1
+Samira Sayed Rahman,Samira Sayed Rahman,PER,-0.7,0.0,de,1
+Shafi Shirzad,Shafi Shirzad,PER,-0.7,0.0,de,1
+Mohammed Hammad,Mohammed Hammad,PER,-0.85,0.0,de,1
+Mohammed Haschem,Mohammed Haschem,PER,0.0,0.0,de,1
+Erdbeben Frau,Erdbeben Frau,PER,-0.7,0.0,de,1
+Indrika Ra,Indrika Ra,PER,1.0,0.0,de,1
+Profi-Bergsteiger Jost Kobusch,Profi-Bergsteiger Jost Kobusch,PER,0.0,0.0,de,1
+Friaul Julisch Venetien,Friaul Julisch Venetien,PER,0.0,0.0,de,1
+Raju Roka,Raju Roka,PER,0.0,0.0,de,1
+Wolfgang Wedan,Wolfgang Wedan,PER,0.0,0.0,de,1
+Cooper Flagg,Cooper Flagg,PER,0.0,0.0,de,1
+Dimitris Papazachos,Dimitris Papazachos,PER,0.0,0.0,de,1
+Todesfahrer von Magdeburg,Todesfahrer von Magdeburg,PER,0.0,0.0,de,1
+Stefan Dornbusch,Stefan Dornbusch,PER,-1.0,0.0,de,1
+Davide Deiana,Davide Deiana,PER,0.85,0.0,de,1
+Christa Hammerl,Christa Hammerl,PER,0.35,0.5,de,1
+Jennifer Johnston,Jennifer Johnston,PER,0.0,0.0,de,1
+Mohammed Dschawad Sarif,Mohammed Dschawad Sarif,PER,-0.85,0.0,de,1
+Minh Aung Hlaing,Minh Aung Hlaing,PER,0.0,0.0,de,1
+Marine Le Pen von Wahlen,Marine Le Pen von Wahlen,PER,0.0,0.0,de,1
+einstürzendes Hochhaus,einstürzendes Hochhaus,PER,0.0,0.0,de,1
+Thailands Nachbarland Myanmar,Thailands Nachbarland Myanmar,PER,0.0,0.0,de,1
+Alexander Albon,Alexander Albon,PER,-1.0,0.0,de,1
+F1-Star Alexander Albon,F1-Star Alexander Albon,PER,0.0,0.0,de,1
+Susan Hough,Susan Hough,PER,0.7,0.0,de,1
+Anke Boysen,Anke Boysen,PER,0.0,0.0,de,1
+Mandalay erschüt,Mandalay erschüt,PER,0.0,0.0,de,1
+Mandalay ers,Mandalay ers,PER,0.0,0.0,de,1
+Myanmar Warnschüsse,Myanmar Warnschüsse,PER,-0.7,0.0,de,1
+Georg Bätzin,Georg Bätzin,PER,-1.0,0.0,de,1
+Georg Bätzing von Limburg,Georg Bätzing von Limburg,PER,-1.0,0.0,de,1
+DBK-Chef Bätzing,DBK-Chef Bätzing,PER,0.0,0.0,de,1
+Südostasiens erschütte,Südostasiens erschütte,PER,0.0,0.0,de,1
+Yangon Nie,Yangon Nie,PER,-0.7,0.0,de,1
+Myanmar von Leichengeruch,Myanmar von Leichengeruch,PER,-1.0,0.0,de,1
+eingestürztem Wohnblock,eingestürztem Wohnblock,PER,0.0,0.0,de,1
+Myanmars Junta-Gegner,Myanmars Junta-Gegner,PER,0.0,0.0,de,1
+Florian Bahrdt,Florian Bahrdt,PER,-0.7,0.0,de,1
+Albrecht Broemme,Albrecht Broemme,PER,0.0,0.0,de,1
+Tawee Sodsong,Tawee Sodsong,PER,0.15000000000000002,0.0,de,1
+Dirk Nowitzki,Dirk Nowitzki,PER,0.0,0.0,de,1
+Nico Harri,Nico Harri,PER,0.7,0.0,de,1
+Erdbeben-Serie vor Santorini,Erdbeben-Serie vor Santorini,PER,0.0,0.0,de,1
+Experten befürcht,Experten befürcht,PER,0.0,0.0,de,1
+Gülşah Sümer,Gülşah Sümer,PER,-0.7,0.0,de,1
+Gül Güler,Gül Güler,PER,-0.7,0.0,de,1
+Gülah Sümer,Gülah Sümer,PER,0.0,0.0,de,1
+Swiss Re,Swiss Re,PER,0.0,0.0,de,1
+Simon N,Simon N,PER,0.0,0.0,de,1
+Erdbeben der Stärke,Erdbeben der Stärke,PER,0.7,0.0,de,1
+Manfred Webers,Manfred Webers,PER,0.0,0.0,de,1
+Idris Akbiyik,Idris Akbiyik,PER,0.0,0.0,de,1
+Japans Premier,Japans Premier,PER,0.0,0.0,de,1
+Erdbeben von Santorin,Erdbeben von Santorin,PER,0.0,0.0,de,1
+Eurodance kracht,Eurodance kracht,PER,0.0,0.0,de,1
+Urlaubsinseln Kreta,Urlaubsinseln Kreta,PER,0.7,0.0,de,1
+Naci Görür,Naci Görür,PER,0.0,0.0,de,1
+Istanbuls Sicherheit,Istanbuls Sicherheit,PER,-0.5,0.5,de,1
+Türkei-Experte Aret Demirci,Türkei-Experte Aret Demirci,PER,-1.0,0.0,de,1
+Aret Demirci,Aret Demirci,PER,0.0,0.0,de,1
+Anna-Lou Beckmann,Anna-Lou Beckmann,PER,0.0,0.0,de,1
+Griechenlands Regierungschef,Griechenlands Regierungschef,PER,0.0,0.0,de,1
+Regierungschef Mitsotakis,Regierungschef Mitsotakis,PER,0.0,0.0,de,1
+George Town,George Town,PER,0.7,0.0,de,1
+Yoshinori Moriwaki,Yoshinori Moriwaki,PER,-0.7,0.0,de,1
+Seismologin Fee-Alexandra Rodler,Seismologin Fee-Alexandra Rodler,PER,0.0,0.0,de,1
+John Vidale,John Vidale,PER,0.0,0.0,de,1
+George Kaviris,George Kaviris,PER,0.85,0.0,de,1
+Istanbuls Einwohner,Istanbuls Einwohner,PER,-1.0,0.0,de,1
+schön gerumpst,schön gerumpst,PER,1.0,0.0,de,1
