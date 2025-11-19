@@ -76,8 +76,6 @@ def image_spoof(self, tile):
 cimgt.OSM.get_image = image_spoof 
 osm_img = cimgt.OSM() 
 
-print('OK1')
-
 fig = plt.figure(figsize=(12,9))
 # project using coordinate reference system (CRS) of street map 
 ax1 = plt.axes(projection=osm_img.crs) 
@@ -95,17 +93,17 @@ ax1.yaxis.set_tick_params(labelsize=14)
 # add OSM with zoom specification
 ax1.add_image(osm_img, scale) 
 
-print('OK2')
-
 ax1.coastlines(resolution='50m', color='black', linewidth=1)
 
-#maxCount = np.max(locationsDF['count'])
+sumCounts = np.sum(locationsDF['count'])
+maxCount = np.max(locationsDF['count'])
+print(['sum',sumCounts,'max',maxCount])   #211,28
 lat1,long1,size1 = [],[],[]
 for index, column in locationsDF.iterrows():
   if(isinstance(column['longitude'], numbers.Number) and isinstance(column['latitude'], numbers.Number)):
     if((limits['latMin']<column['latitude']<limits['latMax']) and (limits['lonMin']<column['longitude']<limits['lonMax'])):
         delta = 1.0
-        counter = column['count']
+        counter = int(column['count']/maxCount*250+column['count']/sumCounts*1800)
         if(column['geotype']=='L'):   #large
             #counter = 1
             delta = 30.0
