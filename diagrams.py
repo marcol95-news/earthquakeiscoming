@@ -92,13 +92,17 @@ plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['topicColor'], 
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 # Keywords valid
-newsDf1 = newsDf[newsDf0['valid']>0.5]
+newsDf1 = newsDf[newsDf['valid']>0.5]
+##newsDf1 = newsDf0[newsDf0['valid']>0.5]
 keywordsDF = newsDf1.groupby('keyword').count()
+print(keywordsDF)
 keywordsDF = keywordsDF.dropna()
 keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,1])
 axKeywords.set_title("Keywords (valid)", fontsize=24)
+print(keywordsDF)
+print(keywordsDF.columns)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['keywordColor'], labels=keywordsDF['keyword'].str.slice(0,20),legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
