@@ -78,7 +78,7 @@ for index, column in newsDf0.iterrows():
      newsDf0.loc[index,'topic'] = 'Invalid'
 print(newsDf0)  
 
-newsDf2 = newsDf0[newsDf0['valid']>0.5]
+newsDf2 = newsDf[newsDf['valid']>0.5]
 newsDf2 = pd.merge(newsDf2, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 #newsDf2 = newsDf0.copy()
 print(newsDf2.columns)
