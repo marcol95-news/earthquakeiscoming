@@ -28,6 +28,9 @@ from dateutil import parser
 
 DATA_PATH = Path.cwd()
 
+dtNow = datetime.datetime.fromtimestamp(int(time.time()), datetime.UTC)
+dtLastMonth = datetime.datetime.fromtimestamp(int(time.time())-60*60*24*30, datetime.UTC)
+
 keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew"]
 keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')  #,index_col='keyword'
 keywordsDF['uniqueString'] = keywordsDF['keyword'] + "_" + keywordsDF['language'] + "_" + keywordsDF['topic']
@@ -138,7 +141,7 @@ def storeCollection():
     global collectedNews
     print("Inside store")
     #cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
-    cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote']
+    cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote','added']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
@@ -307,7 +310,7 @@ def extractData(article, language, keyWord):
     content = article['content']
     hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
-            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr}
+            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr, 'added':str(dtNow)}
     return data  
 
 def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
@@ -427,6 +430,8 @@ def filterNewAndArchive(articles, language, keyWord):
             if(not fileDate in collectedNews):
                 if(os.path.isfile(DATA_PATH / 'csv' / fileDate)):
                     df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
+                    if(not 'added' in df.columns):
+                      df['added'] = str(dtLastMonth)
                     collectedNews[fileDate] = df.to_dict('index')
                 else:
                     collectedNews[fileDate] = {}
