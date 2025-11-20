@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.097684659373769
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.0974321292183445
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0890443239648817
-'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0798851272818057
+'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.06850241818953484
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0644142476822794
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0607963830210499
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0468543478090956
