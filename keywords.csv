@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0758376903701494
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0685024181895348
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0525770155678924
-'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.04681682170044679
+'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.0468168217004467
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0399762106377312
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0393694542639517
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.007212160224752
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0014287797686917
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,4.075542214719344e-05
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,2.2507513432179303e-05
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,1.8157068977500962e-07
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,1.5433508630875818e-07
