@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1493498904259329
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.1183546863893509
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.11212420745296924
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1062114266907197
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.1005315159097826
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.1000273253781333
