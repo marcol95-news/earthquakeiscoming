@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.0642918886968806
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0622748457955952
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0613807858919388
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0608323074850382
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.0561079529616865
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.05200749136228247
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0466822074360679
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0442083921899339
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0378887722178859
