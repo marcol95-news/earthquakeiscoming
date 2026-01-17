@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.0584387697618749
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0561873669123826
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,2,0.0561079529616865
-'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.05464833039234851
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0533836639262559
+'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.04870130583349623
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0466822074360679
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.04450639765794
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0378887722178859
