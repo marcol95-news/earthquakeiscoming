@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.025198010175809
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0027532360436166
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0019944316407129
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.00040638479326113
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,5.213121529589546e-06
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0004063847932611
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,4.431153300151114e-06
