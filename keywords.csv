@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.15774606626661475
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.1577460662666147
 'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1001916355283224
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,1,0.0591104573365253
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.055963509143574
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0434428212324194
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0433398459956435
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0428601261867198
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0425160498135751
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.03628865734153884
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.033855407622559
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0327109278078616
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0311063099122817
