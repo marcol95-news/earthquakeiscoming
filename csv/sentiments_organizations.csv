@@ -7,12 +7,12 @@ Kirche,Kirche,ORG,0.0,0.0,de,7.300000000000001
 "Link
 ","Link
 ",ORG,-1.2153846153846153,0.05128205128205127,de,6.500000000000001
+GeoSphere Austria,GeoSphere Austria,ORG,-0.3023255813953489,0.0,de,4.3
 Vereinten Nationen,Vereinten Nationen,ORG,-0.325,0.0,de,4.0
 Zentrum des Bebens der Stärke,Zentrum des Bebens der Stärke,ORG,1.6216216216216217,0.0,de,3.6999999999999997
 GEO,GEO,ORG,1.9444444444444444,0.0,de,3.6
 Tsunami,Tsunami,ORG,0.4857142857142857,0.0,de,3.5
 Katastrophenschutzbehörde Afad,Katastrophenschutzbehörde Afad,ORG,0.0,0.0,de,3.4000000000000004
-GeoSphere Austria,GeoSphere Austria,ORG,-0.3823529411764706,0.0,de,3.4
 Bergungsarbeiten,Bergungsarbeiten,ORG,-1.2249999999999999,0.0,de,3.0
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,-0.11666666666666665,0.16666666666666666,de,3.0
 Starkes Erdbeben vor den Philippinen,Starkes Erdbeben vor den Philippinen,ORG,0.6999999999999998,0.0,de,3.0
@@ -39,12 +39,12 @@ Ubisoft,Ubisoft,ORG,0.0,0.0,de,1.9
 Geosphere Austria,Geosphere Austria,ORG,-0.5263157894736842,0.0,de,1.9
 Erd…,Erd…,ORG,0.0,0.0,de,1.9
 Nationale Institut für Geophysik und Vulkanologie,Nationale Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.9
+lhe,lhe,ORG,0.0,0.0,de,1.9
 GFZ Helmholtz-Zentrum,GFZ Helmholtz-Zentrum,ORG,0.0,0.0,de,1.9
-Landesamt für Geologie,Landesamt für Geologie,ORG,0.0,0.0,de,1.9
 ÖFB-Training,ÖFB-Training,ORG,0.0,0.0,de,1.9
 Ro…,Ro…,ORG,0.0,0.0,de,1.9
 Ständerat,Ständerat,ORG,0.0,0.0,de,1.9
-lhe,lhe,ORG,0.0,0.0,de,1.9
+Landesamt für Geologie,Landesamt für Geologie,ORG,0.0,0.0,de,1.9
 Naturkatastrophen,Naturkatastrophen,ORG,-1.0526315789473684,0.0,de,1.9
 WWE-Champion,WWE-Champion,ORG,0.0,0.0,de,1.9
 Technol…,Technol…,ORG,-0.8947368421052632,0.0,de,1.9
@@ -73,9 +73,9 @@ cov,cov,ORG,0.0,0.0,de,1.0
 Po…,Po…,ORG,0.0,0.0,de,1.0
 BBC,BBC,ORG,0.0,0.0,de,1.0
 eingesch…,eingesch…,ORG,0.7,0.0,de,1.0
-Provin…,Provin…,ORG,0.0,0.0,de,1.0
 Naturka…,Naturka…,ORG,0.0,0.0,de,1.0
 tatsächli…,tatsächli…,ORG,-1.0,0.0,de,1.0
+Provin…,Provin…,ORG,0.0,0.0,de,1.0
 Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
 nac…,nac…,ORG,0.7,0.0,de,1.0
 UN-Mitarbeitern,UN-Mitarbeitern,ORG,-1.0,0.0,de,1.0
@@ -168,17 +168,17 @@ TV,TV,ORG,-0.7,0.0,de,1.0
 Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
 unausweic…,unausweic…,ORG,0.0,0.0,de,1.0
 Zentrum des Beben…,Zentrum des Beben…,ORG,-0.7,0.0,de,1.0
+Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
 La…,La…,ORG,0.0,0.0,de,1.0
 sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
-Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
 ABC …,ABC …,ORG,-1.0,0.0,de,1.0
 KI Forschern,KI Forschern,ORG,0.0,0.0,de,1.0
 DebatteBestellen,DebatteBestellen,ORG,0.0,0.0,de,1.0
 Taiwan,Taiwan,ORG,0.7,0.0,de,1.0
 TikTok,TikTok,ORG,1.0,0.0,de,1.0
 Geosphere Austria) Freitagfrüh,Geosphere Austria) Freitagfrüh,ORG,0.0,0.0,de,1.0
-"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
 Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
+"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
 Amnesty International,Amnesty International,ORG,0.0,0.0,de,1.0
 AC-Machern,AC-Machern,ORG,0.0,0.0,de,1.0
 Bundes…,Bundes…,ORG,0.0,0.0,de,1.0
@@ -429,8 +429,8 @@ Helmholtz-Zentrum,Helmholtz-Zentrum,ORG,0.0,0.0,de,1.0
 Geop…,Geop…,ORG,0.0,0.0,de,1.0
 italienischen Nationalinstituts,italienischen Nationalinstituts,ORG,0.0,0.0,de,1.0
 st…,st…,ORG,0.0,0.0,de,1.0
-aufges…,aufges…,ORG,0.0,0.0,de,1.0
 Anadol…,Anadol…,ORG,0.0,0.0,de,1.0
+aufges…,aufges…,ORG,0.0,0.0,de,1.0
 Los Angeles Lakers,Los Angeles Lakers,ORG,1.4,0.0,de,1.0
 Euro-Einführung,Euro-Einführung,ORG,0.0,0.0,de,1.0
 Militärdiktatur,Militärdiktatur,ORG,-0.85,0.0,de,1.0
