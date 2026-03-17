@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0226774242009554
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0203886285400029
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0024626582602859
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.00063936908815553
-'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.000180315091689
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0006393690881555
+'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.00015326782793564998
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,1.2074472892867511e-06
