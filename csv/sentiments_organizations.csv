@@ -38,9 +38,9 @@ Vereinig…,Vereinig…,ORG,0.0,0.0,de,2.0
 ei…,ei…,ORG,0.0,0.0,de,2.0
 Ro…,Ro…,ORG,0.0,0.0,de,1.9
 Ständerat,Ständerat,ORG,0.0,0.0,de,1.9
-lhe,lhe,ORG,0.0,0.0,de,1.9
 nationalen Instituts für Geophysik und V…,nationalen Instituts für Geophysik und V…,ORG,0.0,0.0,de,1.9
 Naturkatastrophen,Naturkatastrophen,ORG,-1.0526315789473684,0.0,de,1.9
+lhe,lhe,ORG,0.0,0.0,de,1.9
 bi…,bi…,ORG,0.0,0.0,de,1.9
 Erd…,Erd…,ORG,0.0,0.0,de,1.9
 Technol…,Technol…,ORG,-0.8947368421052632,0.0,de,1.9
@@ -65,8 +65,8 @@ Rückversicherer…,Rückversicherer…,ORG,0.0,0.0,de,1.0
 UN-Mitarbeitern,UN-Mitarbeitern,ORG,-1.0,0.0,de,1.0
 BBC,BBC,ORG,0.0,0.0,de,1.0
 Provin…,Provin…,ORG,0.0,0.0,de,1.0
-Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
 e…,e…,ORG,0.0,0.0,de,1.0
+Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
 VfB Stuttgart,VfB Stuttgart,ORG,0.0,0.0,de,1.0
 US-Behörde,US-Behörde,ORG,-0.7,0.0,de,1.0
 nac…,nac…,ORG,0.7,0.0,de,1.0
@@ -179,7 +179,7 @@ Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
 unausweic…,unausweic…,ORG,0.0,0.0,de,1.0
 Mexiko,Mexiko,ORG,0.7,0.0,de,1.0
 picture alliance/dpa/AP,picture alliance/dpa/AP,ORG,0.0,0.0,de,1.0
-Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
+La…,La…,ORG,0.0,0.0,de,1.0
 AC-Machern,AC-Machern,ORG,0.0,0.0,de,1.0
 N…,N…,ORG,0.7,0.0,de,1.0
 Ges…,Ges…,ORG,0.0,0.0,de,1.0
@@ -189,8 +189,8 @@ Erdbebendi…,Erdbebendi…,ORG,0.0,0.0,de,1.0
 Harvard University,Harvard University,ORG,0.0,0.0,de,1.0
 Was Basketballschuhe,Was Basketballschuhe,ORG,0.0,0.0,de,1.0
 Bundesbank EU-Anleihen,Bundesbank EU-Anleihen,ORG,0.0,0.0,de,1.0
-Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
 "Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
+Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
 Amnesty International,Amnesty International,ORG,0.0,0.0,de,1.0
 Bundes…,Bundes…,ORG,0.0,0.0,de,1.0
 Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
@@ -206,7 +206,7 @@ WWE-Schocker,WWE-Schocker,ORG,0.0,0.0,de,1.0
 WrestleMania-Pläne,WrestleMania-Pläne,ORG,0.0,0.0,de,1.0
 SPÖ,SPÖ,ORG,0.0,0.0,de,1.0
 Zentrum des Beben…,Zentrum des Beben…,ORG,-0.7,0.0,de,1.0
-La…,La…,ORG,0.0,0.0,de,1.0
+sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
 US-Erdbebenbehörde USGS,US-Erdbebenbehörde USGS,ORG,0.0,0.0,de,1.0
 UN-Mission,UN-Mission,ORG,0.0,0.0,de,1.0
 Philippinischen Institut für Vulkanologie und Seismologie,Philippinischen Institut für Vulkanologie und Seismologie,ORG,0.0,0.0,de,1.0
@@ -235,7 +235,7 @@ UNO,UNO,ORG,-1.0666666666666667,0.3333333333333333,de,1.0
 UN-Appell,UN-Appell,ORG,0.0,0.0,de,1.0
 PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,de,1.0
 CDU,CDU,ORG,-0.7,0.0,de,1.0
-sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
+Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
 si…,si…,ORG,0.0,0.0,de,1.0
 ABC …,ABC …,ORG,-1.0,0.0,de,1.0
 KI Forschern,KI Forschern,ORG,0.0,0.0,de,1.0
@@ -385,7 +385,7 @@ Institut für Geophysik der Univers…,Institut für Geophysik der Univers…,OR
 Militärdiktatur,Militärdiktatur,ORG,-0.85,0.0,de,1.0
 Zahl …,Zahl …,ORG,0.0,0.0,de,1.0
 Myanmars Opposition,Myanmars Opposition,ORG,0.0,0.0,de,1.0
-aufges…,aufges…,ORG,0.0,0.0,de,1.0
+Anadol…,Anadol…,ORG,0.0,0.0,de,1.0
 Tsunami-Angst!,Tsunami-Angst!,ORG,0.0,0.0,de,1.0
 Tsunami-Warnung für Insel Kasos,Tsunami-Warnung für Insel Kasos,ORG,0.7,0.0,de,1.0
 Fry,Fry,ORG,0.0,0.0,de,1.0
@@ -411,7 +411,7 @@ Zentrum der türkischen Stadt Istanbul,Zentrum der türkischen Stadt Istanbul,OR
 Millionenmetropole Istanbul,Millionenmetropole Istanbul,ORG,1.4,0.0,de,1.0
 türkisch…,türkisch…,ORG,0.0,0.0,de,1.0
 Erdbebenforscher…,Erdbebenforscher…,ORG,0.0,0.0,de,1.0
-Anadol…,Anadol…,ORG,0.0,0.0,de,1.0
+aufges…,aufges…,ORG,0.0,0.0,de,1.0
 st…,st…,ORG,0.0,0.0,de,1.0
 Dallas Mavericks,Dallas Mavericks,ORG,1.4,0.0,de,1.0
 italienischen Nationalinstituts,italienischen Nationalinstituts,ORG,0.0,0.0,de,1.0
