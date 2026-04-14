@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.11699787434283235
+'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.16812919036353743
+'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.1169978743428323
 'Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.1009312091162736
 'Erdbeben Rettungskräfte',de,Mitigation,#9e3215,#d64118,1,0.0769114070944192
-'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.0733454602892828
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0703336410874114
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0661125362873979
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0659154378470744
