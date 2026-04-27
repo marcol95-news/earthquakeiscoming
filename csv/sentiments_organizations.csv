@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-US-Erdbebenwarte,US-Erdbebenwarte,ORG,-0.22848484848484862,0.0,de,27.499999999999986
+US-Erdbebenwarte,US-Erdbebenwarte,ORG,-0.16666666666666677,0.0,de,29.299999999999983
 USGS,USGS,ORG,-0.27438136826783127,0.0,de,22.89999999999999
 Taliban,Taliban,ORG,-0.3139880952380952,0.6547619047619045,de,22.400000000000006
 Großraum Tokio,Großraum Tokio,ORG,0.5384615384615384,0.0,de,9.100000000000001
@@ -8,131 +8,140 @@ Kirche,Kirche,ORG,0.0,0.0,de,7.300000000000001
 ","Link
 ",ORG,-1.2153846153846153,0.05128205128205127,de,6.500000000000001
 INGV,INGV,ORG,0.11290322580645158,0.0,de,6.200000000000001
+TTS-Player,TTS-Player,ORG,0.30434782608695654,0.0,de,4.6
+Tsunami,Tsunami,ORG,0.22727272727272727,0.0,de,4.4
 GeoSphere Austria,GeoSphere Austria,ORG,-0.3023255813953489,0.0,de,4.3
 Vereinten Nationen,Vereinten Nationen,ORG,-0.325,0.0,de,4.0
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,3.8
 Zentrum des Bebens der Stärke,Zentrum des Bebens der Stärke,ORG,1.6216216216216217,0.0,de,3.6999999999999997
+JMA,JMA,ORG,0.0,0.0,de,3.6999999999999997
 GEO,GEO,ORG,1.9444444444444444,0.0,de,3.6
-Tsunami,Tsunami,ORG,0.4857142857142857,0.0,de,3.5
 Katastrophenschutzbehörde Afad,Katastrophenschutzbehörde Afad,ORG,0.0,0.0,de,3.4000000000000004
 Starkes Erdbeben vor den Philippinen,Starkes Erdbeben vor den Philippinen,ORG,0.6999999999999998,0.0,de,3.0
-Institut für Geodynamik,Institut für Geodynamik,ORG,0.07777777777777777,0.1111111111111111,de,3.0
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,-0.11666666666666665,0.16666666666666666,de,3.0
 Bergungsarbeiten,Bergungsarbeiten,ORG,-1.2249999999999999,0.0,de,3.0
+Institut für Geodynamik,Institut für Geodynamik,ORG,0.07777777777777777,0.1111111111111111,de,3.0
 K…,K…,ORG,0.0,0.0,de,2.9
 Zentrum des Bebens,Zentrum des Bebens,ORG,-0.3735632183908046,0.0,de,2.9
-…,…,ORG,0.125,0.0,de,2.8
 Bundeswehr,Bundeswehr,ORG,0.4107142857142857,0.0,de,2.8
-italienischen Instituts für Geophysik und Vulkanologie,italienischen Instituts für Geophysik und Vulkanologie,ORG,-0.25,0.0,de,2.8
-TTS-Player,TTS-Player,ORG,0.0,0.0,de,2.8
-Tsunami-Gefahr,Tsunami-Gefahr,ORG,-0.25,0.0,de,2.8
-AC/DC,AC/DC,ORG,-0.35714285714285715,0.0,de,2.8
+Geodynamischen Instituts,Geodynamischen Instituts,ORG,0.0,0.0,de,2.8
 TSMC,TSMC,ORG,0.25,0.0,de,2.8
+AC/DC,AC/DC,ORG,-0.35714285714285715,0.0,de,2.8
+italienischen Instituts für Geophysik und Vulkanologie,italienischen Instituts für Geophysik und Vulkanologie,ORG,-0.25,0.0,de,2.8
+Tsunami-Gefahr,Tsunami-Gefahr,ORG,-0.25,0.0,de,2.8
+…,…,ORG,0.125,0.0,de,2.8
+Phlegräischen Feldern,Phlegräischen Feldern,ORG,0.0,0.0,de,2.0
+Ta…,Ta…,ORG,0.0,0.0,de,2.0
 EMSC,EMSC,ORG,0.0,0.0,de,2.0
+Vereinig…,Vereinig…,ORG,0.0,0.0,de,2.0
+no…,no…,ORG,0.0,0.0,de,2.0
+ei…,ei…,ORG,0.0,0.0,de,2.0
 Todesopfern,Todesopfern,ORG,0.0,0.0,de,2.0
 UN,UN,ORG,0.35,0.0,de,2.0
 RTA,RTA,ORG,0.0,0.0,de,2.0
-Vereinig…,Vereinig…,ORG,0.0,0.0,de,2.0
-no…,no…,ORG,0.0,0.0,de,2.0
-Ta…,Ta…,ORG,0.0,0.0,de,2.0
-Phlegräischen Feldern,Phlegräischen Feldern,ORG,0.0,0.0,de,2.0
 Zahle…,Zahle…,ORG,0.0,0.0,de,2.0
-ei…,ei…,ORG,0.0,0.0,de,2.0
-TU Bergakademie Freiberg,TU Bergakademie Freiberg,ORG,0.0,0.0,de,1.9
-Nationale Institut für Geophysik und Vulkanologie,Nationale Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.9
-bi…,bi…,ORG,0.0,0.0,de,1.9
-GFZ Helmholtz-Zentrum,GFZ Helmholtz-Zentrum,ORG,0.0,0.0,de,1.9
-Technol…,Technol…,ORG,-0.8947368421052632,0.0,de,1.9
-Ständerat,Ständerat,ORG,0.0,0.0,de,1.9
-ÖFB-Training,ÖFB-Training,ORG,0.0,0.0,de,1.9
-WWE-Champion,WWE-Champion,ORG,0.0,0.0,de,1.9
-Erd…,Erd…,ORG,0.0,0.0,de,1.9
-Ro…,Ro…,ORG,0.0,0.0,de,1.9
-Landesamt für Geologie,Landesamt für Geologie,ORG,0.0,0.0,de,1.9
-BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1.9
-lhe,lhe,ORG,0.0,0.0,de,1.9
-Leipzig,Leipzig,ORG,-0.3684210526315789,0.0,de,1.9
-Geodynam…,Geodynam…,ORG,0.0,0.0,de,1.9
-THW,THW,ORG,-0.7368421052631579,0.0,de,1.9
-Naturkatastrophen,Naturkatastrophen,ORG,-1.0526315789473684,0.0,de,1.9
-Ubisoft,Ubisoft,ORG,0.0,0.0,de,1.9
 Geosphere Austria,Geosphere Austria,ORG,-0.5263157894736842,0.0,de,1.9
+bi…,bi…,ORG,0.0,0.0,de,1.9
+Naturkatastrophen,Naturkatastrophen,ORG,-1.0526315789473684,0.0,de,1.9
+Leipzig,Leipzig,ORG,-0.3684210526315789,0.0,de,1.9
+Erd…,Erd…,ORG,0.0,0.0,de,1.9
+Landesamt für Geologie,Landesamt für Geologie,ORG,0.0,0.0,de,1.9
+WWE-Champion,WWE-Champion,ORG,0.0,0.0,de,1.9
+Ro…,Ro…,ORG,0.0,0.0,de,1.9
+dr…,dr…,ORG,0.0,0.0,de,1.9
+Ständerat,Ständerat,ORG,0.0,0.0,de,1.9
+GFZ Helmholtz-Zentrum,GFZ Helmholtz-Zentrum,ORG,0.0,0.0,de,1.9
+lhe,lhe,ORG,0.0,0.0,de,1.9
+TU Bergakademie Freiberg,TU Bergakademie Freiberg,ORG,0.0,0.0,de,1.9
+ÖFB-Training,ÖFB-Training,ORG,0.0,0.0,de,1.9
+Nationale Institut für Geophysik und Vulkanologie,Nationale Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.9
+USGS Japan,USGS Japan,ORG,0.7368421052631579,0.0,de,1.9
+Geodynam…,Geodynam…,ORG,0.0,0.0,de,1.9
 Real Madrid,Real Madrid,ORG,0.5263157894736842,0.0,de,1.9
-FC Bayern München,FC Bayern München,ORG,0.15789473684210528,0.0,de,1.9
+THW,THW,ORG,-0.7368421052631579,0.0,de,1.9
 nationalen Instituts für Geophysik und V…,nationalen Instituts für Geophysik und V…,ORG,0.0,0.0,de,1.9
-s…,s…,ORG,0.0,0.0,de,1.8
+FC Bayern München,FC Bayern München,ORG,0.15789473684210528,0.0,de,1.9
+Technol…,Technol…,ORG,-0.8947368421052632,0.0,de,1.9
+Ubisoft,Ubisoft,ORG,0.0,0.0,de,1.9
+BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1.9
 Tsunami Lissabon,Tsunami Lissabon,ORG,0.0,0.0,de,1.8
+s…,s…,ORG,0.0,0.0,de,1.8
 örtl…,örtl…,ORG,-0.5555555555555556,0.2777777777777778,de,1.8
 Hamas,Hamas,ORG,-0.34615384615384615,0.0,de,1.3000000000000003
-ac…,ac…,ORG,-0.85,0.0,de,1.0
-UN-Appell,UN-Appell,ORG,0.0,0.0,de,1.0
-UNO,UNO,ORG,-1.0666666666666667,0.3333333333333333,de,1.0
-Kunar …,Kunar …,ORG,0.0,0.0,de,1.0
-sic…,sic…,ORG,0.0,0.0,de,1.0
 unterde…,unterde…,ORG,-0.7,0.0,de,1.0
-Regierungssp…,Regierungssp…,ORG,0.0,0.0,de,1.0
-UN-Mitarbeitern,UN-Mitarbeitern,ORG,-1.0,0.0,de,1.0
-Po…,Po…,ORG,0.0,0.0,de,1.0
-nac…,nac…,ORG,0.7,0.0,de,1.0
-Nationalen Observatorium Athens,Nationalen Observatorium Athens,ORG,0.0,0.0,de,1.0
-UN-Koordinator,UN-Koordinator,ORG,1.0,0.0,de,1.0
-Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
-Naturka…,Naturka…,ORG,0.0,0.0,de,1.0
-Institut für G…,Institut für G…,ORG,0.0,0.0,de,1.0
-tatsächli…,tatsächli…,ORG,-1.0,0.0,de,1.0
-US-Erdbebenbehörde USGS,US-Erdbebenbehörde USGS,ORG,0.0,0.0,de,1.0
-Taliban-Regierung…,Taliban-Regierung…,ORG,0.0,0.0,de,1.0
-Be…,Be…,ORG,0.0,0.0,de,1.0
 Erdbe…,Erdbe…,ORG,0.0,0.0,de,1.0
-Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1.0
-Afghanistan,Afghanistan,ORG,-0.30000000000000004,1.0,de,1.0
-se…,se…,ORG,0.0,0.0,de,1.0
 EU-Chefin,EU-Chefin,ORG,0.0,0.0,de,1.0
-Einsatzk…,Einsatzk…,ORG,-0.7999999999999999,0.0,de,1.0
-UN-Teams,UN-Teams,ORG,-1.0,0.0,de,1.0
-Erdkern,Erdkern,ORG,-1.0,0.0,de,1.0
-Übe…,Übe…,ORG,0.0,0.0,de,1.0
+Nationalen Observatorium Athens,Nationalen Observatorium Athens,ORG,0.0,0.0,de,1.0
 Re…,Re…,ORG,0.0,0.0,de,1.0
-ste…,ste…,ORG,0.0,0.0,de,1.0
-Katastrophens…,Katastrophens…,ORG,0.0,0.0,de,1.0
-eingesch…,eingesch…,ORG,0.7,0.0,de,1.0
+nä…,nä…,ORG,0.0,0.0,de,1.0
+Einsatzk…,Einsatzk…,ORG,-0.7999999999999999,0.0,de,1.0
 Tagesspiegel,Tagesspiegel,ORG,0.0,0.0,de,1.0
-Afghanistan Erdbeben,Afghanistan Erdbeben,ORG,0.0,0.0,de,1.0
-Europäisch-Mediterrane Seismologische Zentrums,Europäisch-Mediterrane Seismologische Zentrums,ORG,0.0,0.0,de,1.0
+sic…,sic…,ORG,0.0,0.0,de,1.0
+ac…,ac…,ORG,-0.85,0.0,de,1.0
+Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1.0
+US-Erdbebenbehörde USGS,US-Erdbebenbehörde USGS,ORG,0.0,0.0,de,1.0
+UN-Appell,UN-Appell,ORG,0.0,0.0,de,1.0
 minde,minde,ORG,0.0,0.0,de,1.0
-Katastrophenschutzbeh…,Katastrophenschutzbeh…,ORG,-0.85,0.0,de,1.0
-cov,cov,ORG,0.0,0.0,de,1.0
-Philip…,Philip…,ORG,0.7,0.0,de,1.0
-Russisc…,Russisc…,ORG,0.0,0.0,de,1.0
+UNO,UNO,ORG,-1.0666666666666667,0.3333333333333333,de,1.0
+UN-Mitarbeiterinnen,UN-Mitarbeiterinnen,ORG,-1.0,0.0,de,1.0
+Regierungssp…,Regierungssp…,ORG,0.0,0.0,de,1.0
+Europäisch-Mediterrane Seismologische Zentrums,Europäisch-Mediterrane Seismologische Zentrums,ORG,0.0,0.0,de,1.0
+UN-Teams,UN-Teams,ORG,-1.0,0.0,de,1.0
+Be…,Be…,ORG,0.0,0.0,de,1.0
+Erfurt,Erfurt,ORG,0.0,0.0,de,1.0
+Magnitude 1,Magnitude 1,ORG,0.0,0.0,de,1.0
+Übe…,Übe…,ORG,0.0,0.0,de,1.0
+Kunar …,Kunar …,ORG,0.0,0.0,de,1.0
+Afghanistan Erdbeben,Afghanistan Erdbeben,ORG,0.0,0.0,de,1.0
+UN-Koordinator,UN-Koordinator,ORG,1.0,0.0,de,1.0
+Naturka…,Naturka…,ORG,0.0,0.0,de,1.0
+Afghanistan,Afghanistan,ORG,-0.30000000000000004,1.0,de,1.0
+eingesch…,eingesch…,ORG,0.7,0.0,de,1.0
+FDP,FDP,ORG,0.0,0.0,de,1.0
+Po…,Po…,ORG,0.0,0.0,de,1.0
+Institut für G…,Institut für G…,ORG,0.0,0.0,de,1.0
+Katastrophens…,Katastrophens…,ORG,0.0,0.0,de,1.0
+ste…,ste…,ORG,0.0,0.0,de,1.0
+Erdkern,Erdkern,ORG,-1.0,0.0,de,1.0
+Taliban-Regierung…,Taliban-Regierung…,ORG,0.0,0.0,de,1.0
+se…,se…,ORG,0.0,0.0,de,1.0
+Bombe Erdbeben,Bombe Erdbeben,ORG,0.0,0.0,de,1.0
+UN-Mitarbeitern,UN-Mitarbeitern,ORG,-1.0,0.0,de,1.0
+meterho…,meterho…,ORG,0.0,0.0,de,1.0
+Instituts für Vulkanologie und Seismologie auf,Instituts für Vulkanologie und Seismologie auf,ORG,0.0,0.0,de,1.0
+russische Ministerium für Katastrophenschutz,russische Ministerium für Katastrophenschutz,ORG,-0.7,0.0,de,1.0
+PTWC,PTWC,ORG,0.0,0.0,de,1.0
+EuGH,EuGH,ORG,0.0,0.0,de,1.0
+südös…,südös…,ORG,0.0,0.0,de,1.0
 Gefa…,Gefa…,ORG,1.0,0.0,de,1.0
+Russisc…,Russisc…,ORG,0.0,0.0,de,1.0
 "USGS
 ","USGS
 ",ORG,0.0,0.0,de,1.0
 Erdbeben: Globale Auswirkung,Erdbeben: Globale Auswirkung,ORG,0.0,0.0,de,1.0
 Googles Erdbeben-Warnung,Googles Erdbeben-Warnung,ORG,-1.0,0.0,de,1.0
 Starkes Erdbeben,Starkes Erdbeben,ORG,-0.7,0.0,de,1.0
-meterho…,meterho…,ORG,0.0,0.0,de,1.0
 Internationales Netzwerk,Internationales Netzwerk,ORG,0.0,0.0,de,1.0
+russische Katastrophenschutzministerium,russische Katastrophenschutzministerium,ORG,0.0,0.0,de,1.0
 Universität für Bodenkultur Wien,Universität für Bodenkultur Wien,ORG,0.0,0.0,de,1.0
 russische…,russische…,ORG,0.0,0.0,de,1.0
 US-Bunde,US-Bunde,ORG,0.0,0.0,de,1.0
+Philip…,Philip…,ORG,0.7,0.0,de,1.0
 mö…,mö…,ORG,-0.35,0.0,de,1.0
-BBC,BBC,ORG,0.0,0.0,de,1.0
 Pazifik +++,Pazifik +++,ORG,0.0,0.0,de,1.0
 +++ Erdbeben,+++ Erdbeben,ORG,0.0,0.0,de,1.0
 US-Tsuna,US-Tsuna,ORG,-0.7,0.0,de,1.0
 Japan g,Japan g,ORG,0.7,0.0,de,1.0
 TASS,TASS,ORG,0.0,0.0,de,1.0
 GFZ Helmholtz-Zentrums für Geoforschung,GFZ Helmholtz-Zentrums für Geoforschung,ORG,0.0,0.0,de,1.0
-GFZ Potsdam,GFZ Potsdam,ORG,0.0,0.0,de,1.0
-AKW Fukushima,AKW Fukushima,ORG,0.0,0.0,de,1.0
-ael,ael,ORG,0.0,0.0,de,1.0
-US-Tsunamiwarnzentrum,US-Tsunamiwarnzentrum,ORG,-0.7,0.0,de,1.0
-Fukushima-Kata…,Fukushima-Kata…,ORG,0.0,0.0,de,1.0
-südös…,südös…,ORG,0.0,0.0,de,1.0
-EuGH,EuGH,ORG,0.0,0.0,de,1.0
-PTWC,PTWC,ORG,0.0,0.0,de,1.0
-russische Ministerium für Katastrophenschutz,russische Ministerium für Katastrophenschutz,ORG,-0.7,0.0,de,1.0
+Naturgewalten,Naturgewalten,ORG,0.0,0.0,de,1.0
+Sozialdemokrat,Sozialdemokrat,ORG,-0.7,0.0,de,1.0
+nac…,nac…,ORG,0.7,0.0,de,1.0
+UNAMA,UNAMA,ORG,0.0,0.0,de,1.0
+Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
+tatsächli…,tatsächli…,ORG,-1.0,0.0,de,1.0
+cov,cov,ORG,0.0,0.0,de,1.0
+BBC,BBC,ORG,0.0,0.0,de,1.0
 Provin…,Provin…,ORG,0.0,0.0,de,1.0
 VfB Stuttgart,VfB Stuttgart,ORG,0.0,0.0,de,1.0
 LM Re and Safehub,LM Re and Safehub,ORG,0.7,0.0,de,1.0
@@ -141,7 +150,9 @@ südamerikanische…,südamerikanische…,ORG,0.0,0.0,de,1.0
 Berufungskammer …,Berufungskammer …,ORG,0.0,0.0,de,1.0
 RS,RS,ORG,0.0,0.0,de,1.0
 Reuters11.08.2025,Reuters11.08.2025,ORG,0.0,0.0,de,1.0
+Atom-U-Boot-Basis,Atom-U-Boot-Basis,ORG,0.0,0.0,de,1.0
 AP,AP,ORG,0.0,0.0,de,1.0
+Katastrophenschutzbeh…,Katastrophenschutzbeh…,ORG,-0.85,0.0,de,1.0
 Metropolen…,Metropolen…,ORG,0.0,0.0,de,1.0
 Ministerpräsidenti…,Ministerpräsidenti…,ORG,0.0,0.0,de,1.0
 Mittelmeerinsel Sizilien,Mittelmeerinsel Sizilien,ORG,0.0,0.0,de,1.0
@@ -151,15 +162,16 @@ New York Times am …,New York Times am …,ORG,0.0,0.0,de,1.0
 akt…,akt…,ORG,0.0,0.0,de,1.0
 Oberste Gerichtshof,Oberste Gerichtshof,ORG,0.0,0.0,de,1.0
 Planet Labs,Planet Labs,ORG,-1.0,0.0,de,1.0
-Atom-U-Boot-Basis,Atom-U-Boot-Basis,ORG,0.0,0.0,de,1.0
-Sozialdemokrat,Sozialdemokrat,ORG,-0.7,0.0,de,1.0
-russische Katastrophenschutzministerium,russische Katastrophenschutzministerium,ORG,0.0,0.0,de,1.0
-Naturgewalten,Naturgewalten,ORG,0.0,0.0,de,1.0
-Instituts für Vulkanologie und Seismologie auf,Instituts für Vulkanologie und Seismologie auf,ORG,0.0,0.0,de,1.0
-Magnitude 1,Magnitude 1,ORG,0.0,0.0,de,1.0
-CDU,CDU,ORG,-0.7,0.0,de,1.0
-FDP,FDP,ORG,0.0,0.0,de,1.0
-Bosporus!,Bosporus!,ORG,0.0,0.0,de,1.0
+UN-Mission,UN-Mission,ORG,0.0,0.0,de,1.0
+Zentrum des Bebe…,Zentrum des Bebe…,ORG,0.0,0.0,de,1.0
+Sicherheits…,Sicherheits…,ORG,0.0,0.0,de,1.0
+DEBATTENRUNDSCHAU,DEBATTENRUNDSCHAU,ORG,0.0,0.0,de,1.0
+Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
+Amnesty International,Amnesty International,ORG,0.0,0.0,de,1.0
+AC-Machern,AC-Machern,ORG,0.0,0.0,de,1.0
+Bundes…,Bundes…,ORG,0.0,0.0,de,1.0
+Geosphere Austria Mittwochvormittag,Geosphere Austria Mittwochvormittag,ORG,0.0,0.0,de,1.0
+Taunusstein,Taunusstein,ORG,-0.7,0.0,de,1.0
 Weltr…,Weltr…,ORG,0.0,0.0,de,1.0
 Esa,Esa,ORG,0.7,0.0,de,1.0
 europäischen Weltraumorganisation,europäischen Weltraumorganisation,ORG,0.7,0.0,de,1.0
@@ -179,53 +191,53 @@ TikTok,TikTok,ORG,1.0,0.0,de,1.0
 Taiwan,Taiwan,ORG,0.7,0.0,de,1.0
 DebatteBestellen,DebatteBestellen,ORG,0.0,0.0,de,1.0
 AfD,AfD,ORG,0.15000000000000002,0.0,de,1.0
-taz,taz,ORG,0.0,0.0,de,1.0
-DEBATTENRUNDSCHAU,DEBATTENRUNDSCHAU,ORG,0.0,0.0,de,1.0
-AKW Kashiwazaki-Kariwa,AKW Kashiwazaki-Kariwa,ORG,0.0,0.0,de,1.0
-Heart of Midlothian,Heart of Midlothian,ORG,1.0,0.0,de,1.0
-Glasgow Rangers,Glasgow Rangers,ORG,0.0,0.0,de,1.0
-Wet…,Wet…,ORG,0.0,0.0,de,1.0
-Taunusstein,Taunusstein,ORG,-0.7,0.0,de,1.0
-Geosphere Austria Mittwochvormittag,Geosphere Austria Mittwochvormittag,ORG,0.0,0.0,de,1.0
-Bundes…,Bundes…,ORG,0.0,0.0,de,1.0
-italienische Institut für Geophysik und Vulkanologie,italienische Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
+"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
+Bundesbank EU-Anleihen,Bundesbank EU-Anleihen,ORG,0.0,0.0,de,1.0
+Was Basketballschuhe,Was Basketballschuhe,ORG,0.0,0.0,de,1.0
+GFZ Helmholtz-Zentrums für Geoforschung in,GFZ Helmholtz-Zentrums für Geoforschung in,ORG,0.0,0.0,de,1.0
+nordös…,nordös…,ORG,0.0,0.0,de,1.0
+Deutschland</li></ul,Deutschland</li></ul,ORG,0.0,0.0,de,1.0
+Katastrophenschutzbehö…,Katastrophenschutzbehö…,ORG,0.0,0.0,de,1.0
+US-Erdbebenwarte USGS Japan,US-Erdbebenwarte USGS Japan,ORG,0.7,0.0,de,1.0
+Japan …,Japan …,ORG,0.0,0.0,de,1.0
+Erdbeben-Forschung,Erdbeben-Forschung,ORG,0.0,0.0,de,1.0
 Parlament,Parlament,ORG,0.0,0.0,de,1.0
 deuts…,deuts…,ORG,1.0,0.0,de,1.0
 Fußball-Rekordmeister FC Bayern München,Fußball-Rekordmeister FC Bayern München,ORG,-1.0,0.0,de,1.0
 su…,su…,ORG,0.0,0.0,de,1.0
 GFZ Helmholtz-Zentrums für Geoforschung im,GFZ Helmholtz-Zentrums für Geoforschung im,ORG,0.0,0.0,de,1.0
-GFZ Helmholtz-Zentrums für Geoforschung in,GFZ Helmholtz-Zentrums für Geoforschung in,ORG,0.0,0.0,de,1.0
 Rückführungspläne,Rückführungspläne,ORG,0.7,0.0,de,1.0
+Harvard University,Harvard University,ORG,0.0,0.0,de,1.0
 Gebäudes…,Gebäudes…,ORG,0.0,0.0,de,1.0
 Entw…,Entw…,ORG,0.0,0.0,de,1.0
 Technischen Hilfswerks,Technischen Hilfswerks,ORG,-0.7,0.0,de,1.0
 Beri…,Beri…,ORG,0.0,0.0,de,1.0
+italienische Institut für Geophysik und Vulkanologie,italienische Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
 Ordu un…,Ordu un…,ORG,0.0,0.0,de,1.0
-AC-Machern,AC-Machern,ORG,0.0,0.0,de,1.0
 N…,N…,ORG,0.7,0.0,de,1.0
 Ges…,Ges…,ORG,0.0,0.0,de,1.0
 Katastrophenschutzbehörde AFAD,Katastrophenschutzbehörde AFAD,ORG,0.0,0.0,de,1.0
 rätse…,rätse…,ORG,0.0,0.0,de,1.0
 Erdbebendi…,Erdbebendi…,ORG,0.0,0.0,de,1.0
-Harvard University,Harvard University,ORG,0.0,0.0,de,1.0
-Was Basketballschuhe,Was Basketballschuhe,ORG,0.0,0.0,de,1.0
-Bundesbank EU-Anleihen,Bundesbank EU-Anleihen,ORG,0.0,0.0,de,1.0
-Gasför…,Gasför…,ORG,0.0,0.0,de,1.0
-"Landesamts für Bergbau,…","Landesamts für Bergbau,…",ORG,0.0,0.0,de,1.0
-Amnesty International,Amnesty International,ORG,0.0,0.0,de,1.0
-16-Millionen-Einwohner Metropole der Türkei,16-Millionen-Einwohner Metropole der Türkei,ORG,0.0,0.0,de,1.0
-Meteorologiebehörde,Meteorologiebehörde,ORG,0.0,0.0,de,1.0
-Erfurt,Erfurt,ORG,0.0,0.0,de,1.0
-"sächsische Landesamt für Umwelt, Landwi…","sächsische Landesamt für Umwelt, Landwi…",ORG,0.0,0.0,de,1.0
+taz,taz,ORG,0.0,0.0,de,1.0
+AKW Kashiwazaki-Kariwa,AKW Kashiwazaki-Kariwa,ORG,0.0,0.0,de,1.0
+Deutsche Geofo…,Deutsche Geofo…,ORG,0.0,0.0,de,1.0
+Heart of Midlothian,Heart of Midlothian,ORG,1.0,0.0,de,1.0
+si…,si…,ORG,0.0,0.0,de,1.0
+Camorra,Camorra,ORG,0.0,0.0,de,1.0
+Müll,Müll,ORG,0.0,0.0,de,1.0
+italienischen Institut für Geophysik und Vulkanologie,italienischen Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
+Jahrhundert-Flut,Jahrhundert-Flut,ORG,0.0,0.0,de,1.0
+NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1.0
 Diktatorensohn h…,Diktatorensohn h…,ORG,0.0,0.0,de,1.0
 Zah…,Zah…,ORG,0.0,0.0,de,1.0
-Zentrum des Bebe…,Zentrum des Bebe…,ORG,0.0,0.0,de,1.0
+AKW Fukushima,AKW Fukushima,ORG,0.0,0.0,de,1.0
 philippinische Institut für Vulkanologie und Seismologie,philippinische Institut für Vulkanologie und Seismologie,ORG,0.0,0.0,de,1.0
 Oppositionspar…,Oppositionspar…,ORG,0.0,0.0,de,1.0
 rechtspopulistische Oppositionspartei,rechtspopulistische Oppositionspartei,ORG,-0.7,0.0,de,1.0
 SPD-Herrschaft,SPD-Herrschaft,ORG,-0.7,0.0,de,1.0
 die Grünen,die Grünen,ORG,-0.7,0.0,de,1.0
-US-Behörde,US-Behörde,ORG,-0.7,0.0,de,1.0
+CDU,CDU,ORG,-0.7,0.0,de,1.0
 ZDF,ZDF,ORG,-1.0,0.0,de,1.0
 PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,de,1.0
 Philippinischen Institut für Vulkanologie und Seismologie,Philippinischen Institut für Vulkanologie und Seismologie,ORG,0.0,0.0,de,1.0
@@ -236,44 +248,41 @@ kei,kei,ORG,0.0,0.0,de,1.0
 Geological Survey,Geological Survey,ORG,0.0,0.0,de,1.0
 U.S.,U.S.,ORG,0.0,0.0,de,1.0
 Reuters)/(dpa,Reuters)/(dpa,ORG,0.7,0.0,de,1.0
-Deutsche Geofo…,Deutsche Geofo…,ORG,0.0,0.0,de,1.0
-Sicherheits…,Sicherheits…,ORG,0.0,0.0,de,1.0
-UNAMA,UNAMA,ORG,0.0,0.0,de,1.0
-UN-Mission,UN-Mission,ORG,0.0,0.0,de,1.0
-UN-Mitarbeiterinnen,UN-Mitarbeiterinnen,ORG,-1.0,0.0,de,1.0
-nä…,nä…,ORG,0.0,0.0,de,1.0
-NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1.0
-Jahrhundert-Flut,Jahrhundert-Flut,ORG,0.0,0.0,de,1.0
-italienischen Institut für Geophysik und Vulkanologie,italienischen Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
-ABC …,ABC …,ORG,-1.0,0.0,de,1.0
+National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1.0
+Taliban-Regime,Taliban-Regime,ORG,0.0,0.0,de,1.0
+AP03.11.2025,AP03.11.2025,ORG,0.0,0.0,de,1.0
+Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
+Glasgow Rangers,Glasgow Rangers,ORG,0.0,0.0,de,1.0
+Wet…,Wet…,ORG,0.0,0.0,de,1.0
+16-Millionen-Einwohner Metropole der Türkei,16-Millionen-Einwohner Metropole der Türkei,ORG,0.0,0.0,de,1.0
+Bosporus!,Bosporus!,ORG,0.0,0.0,de,1.0
+Meteorologiebehörde,Meteorologiebehörde,ORG,0.0,0.0,de,1.0
+"sächsische Landesamt für Umwelt, Landwi…","sächsische Landesamt für Umwelt, Landwi…",ORG,0.0,0.0,de,1.0
 infol…,infol…,ORG,0.0,0.0,de,1.0
 Nordo…,Nordo…,ORG,0.0,0.0,de,1.0
 ASSOCIATED PRESS,ASSOCIATED PRESS,ORG,0.0,0.0,de,1.0
 picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
 TV,TV,ORG,-0.7,0.0,de,1.0
-Asahi Shimbun,Asahi Shimbun,ORG,0.0,0.0,de,1.0
 unausweic…,unausweic…,ORG,0.0,0.0,de,1.0
+bef…,bef…,ORG,0.7,0.0,de,1.0
 Zentrum des Beben…,Zentrum des Beben…,ORG,-0.7,0.0,de,1.0
 La…,La…,ORG,0.0,0.0,de,1.0
 sächsischen Landesamts,sächsischen Landesamts,ORG,0.0,0.0,de,1.0
 Landesamts für Umwelt…,Landesamts für Umwelt…,ORG,0.0,0.0,de,1.0
+ABC …,ABC …,ORG,-1.0,0.0,de,1.0
 KI Forschern,KI Forschern,ORG,0.0,0.0,de,1.0
-Müll,Müll,ORG,0.0,0.0,de,1.0
 ÖFB-Team,ÖFB-Team,ORG,0.0,0.0,de,1.0
 h…,h…,ORG,0.0,0.0,de,1.0
 österreichischen Fußballnationalmannschaft,österreichischen Fußballnationalmannschaft,ORG,0.0,0.0,de,1.0
 Kolosseum & Co.,Kolosseum & Co.,ORG,0.0,0.0,de,1.0
 Phi…,Phi…,ORG,0.0,0.0,de,1.0
-bef…,bef…,ORG,0.7,0.0,de,1.0
-AP03.11.2025,AP03.11.2025,ORG,0.0,0.0,de,1.0
-Taliban-Regime,Taliban-Regime,ORG,0.0,0.0,de,1.0
-National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1.0
-si…,si…,ORG,0.0,0.0,de,1.0
-Camorra,Camorra,ORG,0.0,0.0,de,1.0
-AKWs,AKWs,ORG,0.0,0.0,de,1.0
-Bombe Erdbeben,Bombe Erdbeben,ORG,0.0,0.0,de,1.0
-Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
-US-Behörde USGS,US-Behörde USGS,ORG,0.0,0.0,de,1.0
+GFZ Potsdam,GFZ Potsdam,ORG,0.0,0.0,de,1.0
+Epizent…,Epizent…,ORG,0.0,0.0,de,1.0
+ael,ael,ORG,0.0,0.0,de,1.0
+GFZ,GFZ,ORG,-1.85,0.0,de,1.0
+Deutsche Geoforschungsinstitut in,Deutsche Geoforschungsinstitut in,ORG,0.0,0.0,de,1.0
+Notstand…,Notstand…,ORG,0.5,0.0,de,1.0
+US Geological Survey,US Geological Survey,ORG,0.7,0.0,de,1.0
 Fe…,Fe…,ORG,-1.0,0.0,de,1.0
 Berlin/Bangkok,Berlin/Bangkok,ORG,0.0,0.0,de,1.0
 US-Forscher,US-Forscher,ORG,-0.5,0.0,de,1.0
@@ -286,8 +295,8 @@ Deutschen Geoforschungsinstitut,Deutschen Geoforschungsinstitut,ORG,0.0,0.0,de,1
 US-Erdebebenwarte,US-Erdebebenwarte,ORG,-1.0,0.0,de,1.0
 US-Erd…,US-Erd…,ORG,0.0,0.0,de,1.0
 Deutsche Geoforschungsinstitut,Deutsche Geoforschungsinstitut,ORG,-0.7,0.0,de,1.0
+US-Behörde USGS,US-Behörde USGS,ORG,0.0,0.0,de,1.0
 Phleg…,Phleg…,ORG,0.0,0.0,de,1.0
-Notstand…,Notstand…,ORG,0.5,0.0,de,1.0
 Netflix-Film-Charts,Netflix-Film-Charts,ORG,1.4,0.0,de,1.0
 "Klinik
 ","Klinik
@@ -300,12 +309,13 @@ Zivilschutzministerium,Zivilschutzministerium,ORG,0.0,0.0,de,1.0
 Ministerium für Zivils…,Ministerium für Zivils…,ORG,0.0,0.0,de,1.0
 Geosphere Austria Bundesanstalt für Geologie,Geosphere Austria Bundesanstalt für Geologie,ORG,0.0,0.0,de,1.0
 ges…,ges…,ORG,0.0,0.0,de,1.0
-Schwarmsequenz,Schwarmsequenz,ORG,0.0,0.0,de,1.0
-GFZ,GFZ,ORG,-1.85,0.0,de,1.0
-US Geological Survey,US Geological Survey,ORG,0.7,0.0,de,1.0
-Deutsche Geoforschungsinstitut in,Deutsche Geoforschungsinstitut in,ORG,0.0,0.0,de,1.0
-Universität von Südkalifornien Seismogramme,Universität von Südkalifornien Seismogramme,ORG,0.0,0.0,de,1.0
-DRV,DRV,ORG,0.7,0.0,de,1.0
+Sagaing-Störung,Sagaing-Störung,ORG,0.3333333333333333,0.0,de,1.0
+Helmholtz-Zentrums für Geoforschung,Helmholtz-Zentrums für Geoforschung,ORG,-0.15000000000000002,0.0,de,1.0
+BILD,BILD,ORG,0.0,0.0,de,1.0
+Rettungs…,Rettungs…,ORG,0.0,0.0,de,1.0
+be…,be…,ORG,-0.85,0.0,de,1.0
+Sta…,Sta…,ORG,0.0,0.0,de,1.0
+staatli…,staatli…,ORG,0.0,0.0,de,1.0
 Armee,Armee,ORG,0.0,0.0,de,1.0
 Myanmars Opposition,Myanmars Opposition,ORG,0.0,0.0,de,1.0
 Zahl …,Zahl …,ORG,0.0,0.0,de,1.0
@@ -315,11 +325,11 @@ Bemühu…,Bemühu…,ORG,-0.7,0.0,de,1.0
 Auswir…,Auswir…,ORG,0.0,0.0,de,1.0
 Bangko… Erschütterungen,Bangko… Erschütterungen,ORG,0.0,0.0,de,1.0
 b…,b…,ORG,0.0,0.0,de,1.0
-Rettungs…,Rettungs…,ORG,0.0,0.0,de,1.0
 THW-Präsident,THW-Präsident,ORG,0.0,0.0,de,1.0
+Deutsche Vanessa Steinmetz,Deutsche Vanessa Steinmetz,ORG,0.0,0.0,de,1.0
 JD Vance,JD Vance,ORG,0.0,0.0,de,1.0
+DRV,DRV,ORG,0.7,0.0,de,1.0
 Deutschen Reiseverband,Deutschen Reiseverband,ORG,0.7,0.0,de,1.0
-Sagaing-Störung,Sagaing-Störung,ORG,0.3333333333333333,0.0,de,1.0
 Militärjunta,Militärjunta,ORG,-0.15000000000000002,1.0,de,1.0
 Lieferverpflichtu…,Lieferverpflichtu…,ORG,0.0,0.0,de,1.0
 AstraZeneca,AstraZeneca,ORG,0.0,0.0,de,1.0
@@ -329,13 +339,11 @@ Aktion Deutschland Hi…,Aktion Deutschland Hi…,ORG,0.0,0.0,de,1.0
 womöglic…,womöglic…,ORG,0.0,0.0,de,1.0
 fr…,fr…,ORG,0.0,0.0,de,1.0
 US-Geschichte,US-Geschichte,ORG,0.0,0.0,de,1.0
-Deutsche Vanessa Steinmetz,Deutsche Vanessa Steinmetz,ORG,0.0,0.0,de,1.0
-BILD,BILD,ORG,0.0,0.0,de,1.0
-Helmholtz-Zentrums für Geoforschung,Helmholtz-Zentrums für Geoforschung,ORG,-0.15000000000000002,0.0,de,1.0
+Schwarmsequenz,Schwarmsequenz,ORG,0.0,0.0,de,1.0
 Deutschen Geoforschungszentrums,Deutschen Geoforschungszentrums,ORG,0.0,0.0,de,1.0
-Cookies,Cookies,ORG,0.7,0.0,de,1.0
-Sta…,Sta…,ORG,0.0,0.0,de,1.0
-W…,W…,ORG,0.0,0.0,de,1.0
+Südostasien,Südostasien,ORG,-0.575,0.0,de,1.0
+Universität von Südkalifornien Seismogramme,Universität von Südkalifornien Seismogramme,ORG,0.0,0.0,de,1.0
+Vulkan,Vulkan,ORG,1.7,0.0,de,1.0
 "Landesamt für Umwelt, Landwirt…","Landesamt für Umwelt, Landwirt…",ORG,0.0,0.0,de,1.0
 Union…,Union…,ORG,0.7,0.0,de,1.0
 d…,d…,ORG,0.7,0.0,de,1.0
@@ -348,8 +356,8 @@ KI-Erdbeben,KI-Erdbeben,ORG,0.0,0.0,de,1.0
 Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,de,1.0
 Sächsische Landesamt für Umwe…,Sächsische Landesamt für Umwe…,ORG,0.0,0.0,de,1.0
 Institut für Geophysik und Vulkanologie,Institut für Geophysik und Vulkanologie,ORG,0.0,0.0,de,1.0
+W…,W…,ORG,0.0,0.0,de,1.0
 hö…,hö…,ORG,0.0,0.0,de,1.0
-gri…,gri…,ORG,0.7,0.0,de,1.0
 Hilfskräfte,Hilfskräfte,ORG,0.0,0.0,de,1.0
 zah…,zah…,ORG,-0.7,0.0,de,1.0
 D…,D…,ORG,0.0,0.0,de,1.0
@@ -362,10 +370,12 @@ bso,bso,ORG,0.0,0.0,de,1.0
 Kerkrade/Aachen,Kerkrade/Aachen,ORG,-0.15000000000000002,0.0,de,1.0
 Bauvorschriften,Bauvorschriften,ORG,0.0,0.0,de,1.0
 ke…,ke…,ORG,0.0,0.0,de,1.0
-Vulkan,Vulkan,ORG,1.7,0.0,de,1.0
+gri…,gri…,ORG,0.7,0.0,de,1.0
 Institut für Geophysik der Univers…,Institut für Geophysik der Univers…,ORG,0.0,0.0,de,1.0
+m…,m…,ORG,0.0,0.0,de,1.0
+"Hessischen Landesamt für Naturschutz, Umwelt und","Hessischen Landesamt für Naturschutz, Umwelt und",ORG,0.0,0.0,de,1.0
+Cookies,Cookies,ORG,0.7,0.0,de,1.0
 TSMCs Fabriken,TSMCs Fabriken,ORG,1.0,0.0,de,1.0
-Hessischen Erdbebendienstes,Hessischen Erdbebendienstes,ORG,0.0,0.0,de,1.0
 Kreuzfahrtsc…,Kreuzfahrtsc…,ORG,0.0,0.0,de,1.0
 britischen Überseegebieten,britischen Überseegebieten,ORG,2.0,0.0,de,1.0
 dpa,dpa,ORG,1.0499999999999998,0.5,de,1.0
@@ -374,14 +384,13 @@ Militär,Militär,ORG,-1.0,0.0,de,1.0
 Pr…,Pr…,ORG,0.0,0.0,de,1.0
 Erdogan-Regierung,Erdogan-Regierung,ORG,0.0,0.0,de,1.0
 Container,Container,ORG,0.0,0.0,de,1.0
-Geodynamischen Instituts,Geodynamischen Instituts,ORG,0.0,0.0,de,1.0
 NBA,NBA,ORG,0.0,0.0,de,1.0
 "Nationale Institut für Geophysik und Vulkanologie
 ","Nationale Institut für Geophysik und Vulkanologie
 ",ORG,0.0,0.0,de,1.0
-"Hessischen Landesamt für Naturschutz, Umwelt und","Hessischen Landesamt für Naturschutz, Umwelt und",ORG,0.0,0.0,de,1.0
+Hessischen Erdbebendienstes,Hessischen Erdbebendienstes,ORG,0.0,0.0,de,1.0
+Behörd…,Behörd…,ORG,0.0,0.0,de,1.0
 Zentrum,Zentrum,ORG,0.30000000000000004,0.0,de,1.0
-m…,m…,ORG,0.0,0.0,de,1.0
 Intensität…,Intensität…,ORG,0.0,0.0,de,1.0
 lee…,lee…,ORG,0.0,0.0,de,1.0
 Airlines,Airlines,ORG,0.0,0.0,de,1.0
@@ -393,11 +402,15 @@ g…,g…,ORG,-0.35,0.0,de,1.0
 Seismol…,Seismol…,ORG,0.0,0.0,de,1.0
 Nationalobs…,Nationalobs…,ORG,0.2333333333333333,0.0,de,1.0
 CNN,CNN,ORG,0.0,0.0,de,1.0
-Behörd…,Behörd…,ORG,0.0,0.0,de,1.0
-staatli…,staatli…,ORG,0.0,0.0,de,1.0
-be…,be…,ORG,-0.85,0.0,de,1.0
-e…,e…,ORG,0.0,0.0,de,1.0
-junge Welt,junge Welt,ORG,0.0,0.0,de,1.0
+Freitag,Freitag,ORG,-1.0,0.0,de,1.0
+WHO,WHO,ORG,-0.30000000000000004,0.0,de,1.0
+US-Tsunamiwarnzentrum,US-Tsunamiwarnzentrum,ORG,-0.7,0.0,de,1.0
+US-Friedensplan,US-Friedensplan,ORG,0.0,0.0,de,1.0
+Deutsche Geoforschungszentrum,Deutsche Geoforschungszentrum,ORG,0.0,0.0,de,1.0
+Öf…,Öf…,ORG,0.0,0.0,de,1.0
+BMKG,BMKG,ORG,0.0,0.0,de,1.0
+"Agentur für Meteorologie, Klimatologie und Geophysik","Agentur für Meteorologie, Klimatologie und Geophysik",ORG,0.0,0.0,de,1.0
+Ista…,Ista…,ORG,0.0,0.0,de,1.0
 Neapel,Neapel,ORG,0.0,0.0,de,1.0
 Helmholtz-Zentrum,Helmholtz-Zentrum,ORG,0.0,0.0,de,1.0
 Geop…,Geop…,ORG,0.0,0.0,de,1.0
@@ -410,8 +423,8 @@ Tsunami-Warnung für Insel Kasos,Tsunami-Warnung für Insel Kasos,ORG,0.7,0.0,de
 Fry,Fry,ORG,0.0,0.0,de,1.0
 Erdbeben,Erdbeben,ORG,0.0,0.0,de,1.0
 NEWSWIRE,NEWSWIRE,ORG,0.0,0.0,de,1.0
+junge Welt,junge Welt,ORG,0.0,0.0,de,1.0
 Min Aung Hlaings,Min Aung Hlaings,ORG,0.0,0.0,de,1.0
-"Agentur für Meteorologie, Klimatologie und Geophysik","Agentur für Meteorologie, Klimatologie und Geophysik",ORG,0.0,0.0,de,1.0
 AWI,AWI,ORG,0.0,0.0,de,1.0
 Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.0,0.0,de,1.0
 Geofo…,Geofo…,ORG,0.0,0.0,de,1.0
@@ -420,28 +433,29 @@ TV-Persönlichkeit,TV-Persönlichkeit,ORG,1.4,0.0,de,1.0
 Behö…,Behö…,ORG,-0.35,0.0,de,1.0
 Zentrum des starken Bebens,Zentrum des starken Bebens,ORG,-0.35,0.0,de,1.0
 Moderators,Moderators,ORG,1.0,0.0,de,1.0
-TV-Studio,TV-Studio,ORG,-0.7,0.0,de,1.0
-US-Friedensplan,US-Friedensplan,ORG,0.0,0.0,de,1.0
-News,News,ORG,0.0,0.0,de,1.0
-SZ,SZ,ORG,0.0,0.0,de,1.0
-Ista…,Ista…,ORG,0.0,0.0,de,1.0
-BMKG,BMKG,ORG,0.0,0.0,de,1.0
-türkischen Nationalen Katatrophenschutzbehörde,türkischen Nationalen Katatrophenschutzbehörde,ORG,0.0,0.0,de,1.0
-Erschüt…,Erschüt…,ORG,0.0,0.0,de,1.0
+Instituts EMSC,Instituts EMSC,ORG,0.0,0.0,de,1.0
+spü…,spü…,ORG,0.0,0.0,de,1.0
+Deutschen Presse-Agentur …,Deutschen Presse-Agentur …,ORG,0.0,0.0,de,1.0
+Österreichisc…,Österreichisc…,ORG,-0.35,0.0,de,1.0
+Fukushima-Kata…,Fukushima-Kata…,ORG,0.0,0.0,de,1.0
+AKWs,AKWs,ORG,0.0,0.0,de,1.0
+US-Behörde,US-Behörde,ORG,-0.7,0.0,de,1.0
+e…,e…,ORG,0.0,0.0,de,1.0
+Höchster Vulkan,Höchster Vulkan,ORG,0.0,0.0,de,1.0
 Rückversicherer…,Rückversicherer…,ORG,0.0,0.0,de,1.0
 Kiew  ,Kiew  ,ORG,0.0,0.0,de,1.0
 Starke Erdbeben,Starke Erdbeben,ORG,0.7,0.0,de,1.0
 European Mediterranean Seismological Centre,European Mediterranean Seismological Centre,ORG,0.0,0.0,de,1.0
 yas,yas,ORG,0.0,0.0,de,1.0
-Epizent…,Epizent…,ORG,0.0,0.0,de,1.0
 Entwar…,Entwar…,ORG,0.0,0.0,de,1.0
 Mittwo…,Mittwo…,ORG,0.0,0.0,de,1.0
-Österreichisc…,Österreichisc…,ORG,-0.35,0.0,de,1.0
 Wütender Mob,Wütender Mob,ORG,-1.0,0.0,de,1.0
+Karatschi!,Karatschi!,ORG,0.0,0.0,de,1.0
+US-Metropole,US-Metropole,ORG,1.0,0.0,de,1.0
 ETH Zürich Erdbeben am Mont-Blanc-Massiv,ETH Zürich Erdbeben am Mont-Blanc-Massiv,ORG,0.0,0.0,de,1.0
 Österreichische …,Österreichische …,ORG,-0.35,0.0,de,1.0
+Erschüt…,Erschüt…,ORG,0.0,0.0,de,1.0
 ge…,ge…,ORG,0.0,0.0,de,1.0
-Öf…,Öf…,ORG,0.0,0.0,de,1.0
 NBA-Teenager,NBA-Teenager,ORG,0.0,0.0,de,1.0
 Demokraten,Demokraten,ORG,1.4,0.0,de,1.0
 Junge Union,Junge Union,ORG,0.0,0.0,de,1.0
@@ -449,15 +463,14 @@ Naturkatas­trophen,Naturkatas­trophen,ORG,0.0,0.0,de,1.0
 Social Media,Social Media,ORG,0.0,0.0,de,1.0
 Wear-OS-Smartwatches,Wear-OS-Smartwatches,ORG,0.0,0.0,de,1.0
 AFP,AFP,ORG,-0.85,0.0,de,1.0
-Karatschi!,Karatschi!,ORG,0.0,0.0,de,1.0
-Deutschen Presse-Agentur …,Deutschen Presse-Agentur …,ORG,0.0,0.0,de,1.0
-spü…,spü…,ORG,0.0,0.0,de,1.0
-Instituts EMSC,Instituts EMSC,ORG,0.0,0.0,de,1.0
-Deutsche Geoforschungszentrum,Deutsche Geoforschungszentrum,ORG,0.0,0.0,de,1.0
-AFAD,AFAD,ORG,0.0,0.0,de,1.0
-Zentrum der türkischen Stadt Istanbul,Zentrum der türkischen Stadt Istanbul,ORG,0.0,0.0,de,1.0
-Freitag,Freitag,ORG,-1.0,0.0,de,1.0
-KOMMENTAR,KOMMENTAR,ORG,0.7,0.0,de,1.0
+TV-Studio,TV-Studio,ORG,-0.7,0.0,de,1.0
+News,News,ORG,0.0,0.0,de,1.0
+Weltgesundheitsorganisation,Weltgesundheitsorganisation,ORG,-2.4,0.0,de,1.0
+SZ,SZ,ORG,0.0,0.0,de,1.0
+UN-Menschenrechtler,UN-Menschenrechtler,ORG,0.0,0.0,de,1.0
+Exilmedium Irrawaddy,Exilmedium Irrawaddy,ORG,0.0,0.0,de,1.0
+Mil…,Mil…,ORG,1.4,0.0,de,1.0
+Widerstandsgruppen,Widerstandsgruppen,ORG,0.0,0.0,de,1.0
 Oberkomma…,Oberkomma…,ORG,0.7,0.0,de,1.0
 Hilfskonvoi,Hilfskonvoi,ORG,-0.7,0.0,de,1.0
 EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1.0
@@ -470,8 +483,8 @@ LBEG,LBEG,ORG,0.0,0.0,de,1.0
 "Landesamt für Bergbau, Energie und Geologie","Landesamt für Bergbau, Energie und Geologie",ORG,0.0,0.0,de,1.0
 ange…,ange…,ORG,-1.4,0.0,de,1.0
 zw…,zw…,ORG,0.0,0.0,de,1.0
+KOMMENTAR,KOMMENTAR,ORG,0.7,0.0,de,1.0
 Weltges… <ul><li,Weltges… <ul><li,ORG,0.7,0.0,de,1.0
-Mil…,Mil…,ORG,1.4,0.0,de,1.0
 SDB,SDB,ORG,0.0,0.0,de,1.0
 Premiermini…,Premiermini…,ORG,0.0,0.0,de,1.0
 Erdbebenhilfe…,Erdbebenhilfe…,ORG,0.7,0.0,de,1.0
@@ -481,13 +494,14 @@ Selenskyj + Erdbeben,Selenskyj + Erdbeben,ORG,-0.5833333333333334,0.0,de,1.0
 F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.0
 AKZENT,AKZENT,ORG,0.0,0.0,de,1.0
 NZZ,NZZ,ORG,0.0,0.0,de,1.0
-Weltgesundheitsorganisation,Weltgesundheitsorganisation,ORG,-2.4,0.0,de,1.0
-WHO,WHO,ORG,-0.30000000000000004,0.0,de,1.0
-Südostasien,Südostasien,ORG,-0.575,0.0,de,1.0
-Widerstandsgruppen,Widerstandsgruppen,ORG,0.0,0.0,de,1.0
-Exilmedium Irrawaddy,Exilmedium Irrawaddy,ORG,0.0,0.0,de,1.0
+UN-Büro,UN-Büro,ORG,0.0,0.0,de,1.0
+Hochhauses!,Hochhauses!,ORG,0.0,0.0,de,1.0
+Gouverne…,Gouverne…,ORG,0.7,0.0,de,1.0
+Euro-Einführung,Euro-Einführung,ORG,0.0,0.0,de,1.0
+AFAD,AFAD,ORG,0.0,0.0,de,1.0
+türkischen Nationalen Katatrophenschutzbehörde,türkischen Nationalen Katatrophenschutzbehörde,ORG,0.0,0.0,de,1.0
+Zentrum der türkischen Stadt Istanbul,Zentrum der türkischen Stadt Istanbul,ORG,0.0,0.0,de,1.0
 Millionenmetropole Istanbul,Millionenmetropole Istanbul,ORG,1.4,0.0,de,1.0
-ebenf…,ebenf…,ORG,0.0,0.0,de,1.0
 türkisch…,türkisch…,ORG,0.0,0.0,de,1.0
 Erdbebenforscher…,Erdbebenforscher…,ORG,0.0,0.0,de,1.0
 Helmholtz-Zentrum für Geoforschung,Helmholtz-Zentrum für Geoforschung,ORG,0.0,0.0,de,1.0
@@ -496,12 +510,12 @@ Gebäudeentwic…,Gebäudeentwic…,ORG,0.15000000000000002,0.0,de,1.0
 Erdbeben-Einsturz,Erdbeben-Einsturz,ORG,2.15,0.0,de,1.0
 Los Angeles Lakers,Los Angeles Lakers,ORG,1.4,0.0,de,1.0
 Luka Doncic,Luka Doncic,ORG,0.0,0.0,de,1.0
-Euro-Einführung,Euro-Einführung,ORG,0.0,0.0,de,1.0
 Bataillon Urban Revolutionary Front,Bataillon Urban Revolutionary Front,ORG,0.7,0.0,de,1.0
+Heimatbesuch!,Heimatbesuch!,ORG,0.0,0.0,de,1.0
 Europäisch-Mediterrane Seismologische Zentrum,Europäisch-Mediterrane Seismologische Zentrum,ORG,0.0,0.0,de,1.0
 Deutschen Roten Kreuzes,Deutschen Roten Kreuzes,ORG,0.0,0.0,de,1.0
+ebenf…,ebenf…,ORG,0.0,0.0,de,1.0
 Deutsche Rote Kreuz,Deutsche Rote Kreuz,ORG,0.7,0.0,de,1.0
-UN-Menschenrechtler,UN-Menschenrechtler,ORG,0.0,0.0,de,1.0
 DRK,DRK,ORG,0.7,0.0,de,1.0
 "shutterstock
 ","shutterstock
@@ -512,8 +526,4 @@ Bürger…,Bürger…,ORG,0.0,0.0,de,1.0
 US-Hilfe,US-Hilfe,ORG,0.0,0.0,de,1.0
 UN-Schätzungen,UN-Schätzungen,ORG,-0.35,0.5,de,1.0
 X.,X.,ORG,0.0,0.0,de,1.0
-Heimatbesuch!,Heimatbesuch!,ORG,0.0,0.0,de,1.0
-Gouverne…,Gouverne…,ORG,0.7,0.0,de,1.0
-Hochhauses!,Hochhauses!,ORG,0.0,0.0,de,1.0
-UN-Büro,UN-Büro,ORG,0.0,0.0,de,1.0
-US-Metropole,US-Metropole,ORG,1.0,0.0,de,1.0
+Lan…,Lan…,ORG,0.0,0.0,de,1.0
