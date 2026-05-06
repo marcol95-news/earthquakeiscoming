@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.13706246416339674
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1370624641633967
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.1090548691139925
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.1043564253230703
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,2,0.1005812808841179
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0024626582602859
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0003911527419032
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,4.176403090574155e-05
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,2.796652539425286e-07
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,2.3771546585114932e-07
