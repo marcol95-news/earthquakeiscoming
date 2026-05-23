@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,1,0.0401854588371378
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0318808122081324
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.0318467723302778
-'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.031207410197952586
+'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0312074101979525
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0221999898650662
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.021852268869197
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0186313591331241
