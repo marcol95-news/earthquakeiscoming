@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0186313591331241
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0169169922351902
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0154998657683573
-'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.011733975614309734
+'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0117339756143097
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0017792705930565
 'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.000682225725353
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0005852300123293
-'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,6.477521209968508e-08
+'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,5.5058930284732317e-08
