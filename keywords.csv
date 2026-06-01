@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schwarmbeben',de,Hazard,#4287f5,#3b4a63,1,0.0270986903769125
 'Erdbeben Hilfsgüter',de,Mitigation,#9e3215,#802d16,1,0.021852268869197
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0193200363853062
-'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.0186313591331241
 'Erdbeben Spenden',de,Mitigation,#9e3215,#802d16,1,0.0169169922351902
+'Erdbeben Trümmer',de,Impacts,#a89216,#a89216,1,0.016736745263155484
 'Erdbeben Erdplatte',de,Causes,#679e2c,#679e2c,1,0.0154998657683573
 'Erdbeben verschüttet',de,Impacts,#a89216,#a89216,1,0.0117339756143097
 'Erdbeben Aufräumarbeiten',de,Mitigation,#9e3215,#9e3215,1,0.0017792705930565
 'Erdbeben Scherzone',de,Causes,#679e2c,#7db344,1,0.0005852300123293
-'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.0005798918665500499
+'Erdbeben Plattengrenze',de,Causes,#679e2c,#61b00c,1,0.00057989186655
 'Erdbeben Platten Tektonik',de,Causes,#679e2c,#477515,1,4.680009074202247e-08
