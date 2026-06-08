@@ -1,11 +1,11 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,71.09999999999998
+",MISC,,,de,71.99999999999999
 “,“,MISC,6.35,2.5,de,41.79999999999996
 Tsunami-Warnung,Tsunami-Warnung,MISC,4.421052631578948,1.0526315789473684,de,25.799999999999986
 japanische,japanische,MISC,,,de,23.199999999999992
-Erdbeben“,Erdbeben“,MISC,1.7,0.0,de,15.500000000000004
+Erdbeben“,Erdbeben“,MISC,1.7,0.0,de,16.400000000000002
 japanischen,japanischen,MISC,,,de,10.000000000000002
 italienischen,italienischen,MISC,,,de,8.500000000000002
 Schweizer,Schweizer,MISC,,,de,8.200000000000001
@@ -13,256 +13,186 @@ türkischen,türkischen,MISC,,,de,7.900000000000002
 süditalienischen,süditalienischen,MISC,,,de,7.300000000000001
 griechischen,griechischen,MISC,,,de,7.300000000000001
 Taliban-Regierung,Taliban-Regierung,MISC,,,de,7.0
-Sachsen,Sachsen,MISC,-0.15625,0.0,de,6.4
 indonesischen,indonesischen,MISC,,,de,6.4
+Sachsen,Sachsen,MISC,-0.15625,0.0,de,6.4
 Zahl der Toten,Zahl der Toten,MISC,,,de,5.9
-stern+,stern+,MISC,,,de,5.5
 stern+statt,stern+statt,MISC,,,de,5.5
+stern+,stern+,MISC,,,de,5.5
 Erdbeben auf den Philippinen,Erdbeben auf den Philippinen,MISC,0.02280130293159609,0.06514657980456026,de,5.4
-griechische,griechische,MISC,,,de,4.7
-italienische,italienische,MISC,,,de,4.7
 ePaper,ePaper,MISC,,,de,4.7
-Erdbeben,Erdbeben,MISC,0.022576361221779556,0.0,de,4.6
+italienische,italienische,MISC,,,de,4.7
+griechische,griechische,MISC,,,de,4.7
 Tsunami-Wellen,Tsunami-Wellen,MISC,-0.5675675675675675,0.0,de,4.6
 i…,i…,MISC,,,de,4.6
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,4.5
-nan,nan,MISC,0.8615384615384615,0.0,de,4.5
+Erdbeben,Erdbeben,MISC,0.022576361221779556,0.0,de,4.6
 Katastrophen“,Katastrophen“,MISC,,,de,4.5
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,4.5
+nan,nan,MISC,0.7567567567567567,0.0,de,4.5
 süditalienische,süditalienische,MISC,,,de,4.4
+spanische,spanische,MISC,,,de,4.2
 mexikanische,mexikanische,MISC,,,de,4.199999999999999
-Todesopfer auf mindestens 72,Todesopfer auf mindestens 72,MISC,,,de,4.0
 türkische,türkische,MISC,,,de,4.0
-Österreichische,Österreichische,MISC,,,de,3.6999999999999997
-Drei Jahre nach dem,Drei Jahre nach dem,MISC,,,de,3.6999999999999997
+Todesopfer auf mindestens 72,Todesopfer auf mindestens 72,MISC,,,de,4.0
 südchinesischen,südchinesischen,MISC,,,de,3.6999999999999997
+Drei Jahre nach dem,Drei Jahre nach dem,MISC,,,de,3.6999999999999997
 deutsche,deutsche,MISC,,,de,3.6999999999999997
+Österreichische,Österreichische,MISC,,,de,3.6999999999999997
 Oktoberfest,Oktoberfest,MISC,,,de,3.0
 Trümmern,Trümmern,MISC,-0.10714285714285718,0.23809523809523814,de,3.0
 Philippinische,Philippinische,MISC,,,de,3.0
+sozialen,sozialen,MISC,,,de,2.9
 deutscher,deutscher,MISC,,,de,2.9
 s…,s…,MISC,,,de,2.9
-sozialen,sozialen,MISC,,,de,2.9
-dänischen,dänischen,MISC,,,de,2.8
-Gesteins m…,Gesteins m…,MISC,,,de,2.8
-Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,2.8
-Google Play Services,Google Play Services,MISC,,,de,2.8
 Vor einem Jahr,Vor einem Jahr,MISC,,,de,2.8
-Drei Jahre nach Erdbeben,Drei Jahre nach Erdbeben,MISC,,,de,2.8
-russischen,russischen,MISC,,,de,2.8
 deutschen,deutschen,MISC,,,de,2.8
-christlichen,christlichen,MISC,,,de,2.8
+dänischen,dänischen,MISC,,,de,2.8
+Google Play Services,Google Play Services,MISC,,,de,2.8
 Berliner,Berliner,MISC,,,de,2.8
-Zeit,Zeit,MISC,,,de,2.8
-französischen,französischen,MISC,,,de,2.8
+christlichen,christlichen,MISC,,,de,2.8
+Gesteins m…,Gesteins m…,MISC,,,de,2.8
 türkischer,türkischer,MISC,,,de,2.8
+Drei Jahre nach Erdbeben,Drei Jahre nach Erdbeben,MISC,,,de,2.8
+französischen,französischen,MISC,,,de,2.8
 ukrainischen,ukrainischen,MISC,,,de,2.8
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,2.8
+Zeit,Zeit,MISC,,,de,2.8
 S…,S…,MISC,0.0,0.0,de,2.8
-Naturkatastrophen“,Naturkatastrophen“,MISC,,,de,2.7
+russischen,russischen,MISC,,,de,2.8
 …,…,MISC,0.0,0.0,de,2.7
+Naturkatastrophen“,Naturkatastrophen“,MISC,,,de,2.7
 Die Zahl der Toten,Die Zahl der Toten,MISC,,,de,2.6
-spanische,spanische,MISC,,,de,2.4
+Katastrophe“,Katastrophe“,MISC,,,de,2.0
+Katastrophe,Katastrophe,MISC,-0.7,0.0,de,2.0
+russischer,russischer,MISC,,,de,2.0
 "Ein Erdbeben der Stärke 6,0","Ein Erdbeben der Stärke 6,0",MISC,,,de,2.0
+Tages,Tages,MISC,,,de,2.0
+Erd­beben,Erd­beben,MISC,,,de,2.0
+Todesopfer liege,Todesopfer liege,MISC,,,de,2.0
+Erdbe…,Erdbe…,MISC,,,de,2.0
+Suche nach Überlebenden,Suche nach Überlebenden,MISC,,,de,2.0
+verletz…,verletz…,MISC,,,de,2.0
+deutscher Zeit,deutscher Zeit,MISC,,,de,2.0
 B…,B…,MISC,0.0,0.0,de,2.0
 afghanische,afghanische,MISC,,,de,2.0
-deutscher Zeit,deutscher Zeit,MISC,,,de,2.0
-russischer,russischer,MISC,,,de,2.0
-Erd­beben,Erd­beben,MISC,,,de,2.0
-Katastrophe,Katastrophe,MISC,-0.7,0.0,de,2.0
-verletz…,verletz…,MISC,,,de,2.0
-Katastrophe“,Katastrophe“,MISC,,,de,2.0
-Suche nach Überlebenden,Suche nach Überlebenden,MISC,,,de,2.0
-Erdbe…,Erdbe…,MISC,,,de,2.0
-Tages,Tages,MISC,,,de,2.0
-Todesopfer liege,Todesopfer liege,MISC,,,de,2.0
-Waffenruhe,Waffenruhe,MISC,,,de,1.9
+Mi…,Mi…,MISC,,,de,1.9
+Renovierungsarbeiten,Renovierungsarbeiten,MISC,,,de,1.9
+Wie groß ist die Gefahr,Wie groß ist die Gefahr,MISC,,,de,1.9
+Das Beben,Das Beben,MISC,,,de,1.9
+Supervulkan“,Supervulkan“,MISC,,,de,1.9
+Bürgerkrieg,Bürgerkrieg,MISC,-6.2,0.0,de,1.9
+nordtürkischer,nordtürkischer,MISC,,,de,1.9
 Todesopfer durch Sturz bei Evakuierung,Todesopfer durch Sturz bei Evakuierung,MISC,,,de,1.9
-d…,d…,MISC,-0.20833333333333334,0.0,de,1.9
-niederländischen,niederländischen,MISC,,,de,1.9
-v…,v…,MISC,,,de,1.9
-Google,Google,MISC,,,de,1.9
-g…,g…,MISC,,,de,1.9
-Was Experten zur Gefahr,Was Experten zur Gefahr,MISC,,,de,1.9
+Wohnhausbränden,Wohnhausbränden,MISC,,,de,1.9
+Mens…,Mens…,MISC,,,de,1.9
+Sc…,Sc…,MISC,,,de,1.9
 "Richterskala
 ","Richterskala
 ",MISC,,,de,1.9
-Renovierungsarbeiten,Renovierungsarbeiten,MISC,,,de,1.9
-indischen,indischen,MISC,,,de,1.9
-Ibiza-Affäre,Ibiza-Affäre,MISC,,,de,1.9
-Sc…,Sc…,MISC,,,de,1.9
-Wohnhausbränden,Wohnhausbränden,MISC,,,de,1.9
 Ortenaukreis,Ortenaukreis,MISC,0.35,0.5,de,1.9
-Ge…,Ge…,MISC,,,de,1.9
-Erdbebe…,Erdbebe…,MISC,,,de,1.9
-Mens…,Mens…,MISC,,,de,1.9
-iranischen,iranischen,MISC,,,de,1.9
-The Big One,The Big One,MISC,,,de,1.9
-Mittwoch-Trainings,Mittwoch-Trainings,MISC,,,de,1.9
-österreichischen,österreichischen,MISC,,,de,1.9
-Das Beben,Das Beben,MISC,,,de,1.9
-MEZ,MEZ,MISC,,,de,1.9
-Reaktor-Schutzhülle,Reaktor-Schutzhülle,MISC,,,de,1.9
-Tsunami-Alarm,Tsunami-Alarm,MISC,0.0,2.0,de,1.9
-V…,V…,MISC,,,de,1.9
-OpenAI,OpenAI,MISC,,,de,1.9
-Wetterbehörde bekan…,Wetterbehörde bekan…,MISC,,,de,1.9
-seismische,seismische,MISC,,,de,1.9
-Mi…,Mi…,MISC,,,de,1.9
-Geb…,Geb…,MISC,,,de,1.9
-Ep…,Ep…,MISC,,,de,1.9
-THW-Hunde,THW-Hunde,MISC,,,de,1.9
-Wie groß ist die Gefahr,Wie groß ist die Gefahr,MISC,,,de,1.9
 Wear OS,Wear OS,MISC,,,de,1.9
-österreichische,österreichische,MISC,,,de,1.9
-Bürgerkrieg,Bürgerkrieg,MISC,-6.2,0.0,de,1.9
-E…,E…,MISC,,,de,1.9
-GAU,GAU,MISC,,,de,1.9
+österreichischen,österreichischen,MISC,,,de,1.9
+Was Experten zur Gefahr,Was Experten zur Gefahr,MISC,,,de,1.9
+d…,d…,MISC,-0.20833333333333334,0.0,de,1.9
 Deutscher,Deutscher,MISC,,,de,1.9
-sächsischen,sächsischen,MISC,,,de,1.9
+Ibiza-Affäre,Ibiza-Affäre,MISC,,,de,1.9
+niederländischen,niederländischen,MISC,,,de,1.9
+österreichische,österreichische,MISC,,,de,1.9
+Waffenruhe,Waffenruhe,MISC,,,de,1.9
+Ge…,Ge…,MISC,0.0,0.0,de,1.9
+Tsunami-Alarm,Tsunami-Alarm,MISC,0.0,2.0,de,1.9
+Reaktor-Schutzhülle,Reaktor-Schutzhülle,MISC,,,de,1.9
+iranischen,iranischen,MISC,,,de,1.9
+Mittwoch-Trainings,Mittwoch-Trainings,MISC,,,de,1.9
+Ep…,Ep…,MISC,,,de,1.9
+The Big One,The Big One,MISC,,,de,1.9
+v…,v…,MISC,,,de,1.9
+GAU,GAU,MISC,,,de,1.9
+Google,Google,MISC,,,de,1.9
+V…,V…,MISC,,,de,1.9
+g…,g…,MISC,,,de,1.9
+seismische,seismische,MISC,,,de,1.9
+Wetterbehörde bekan…,Wetterbehörde bekan…,MISC,,,de,1.9
+MEZ,MEZ,MISC,,,de,1.9
+Geb…,Geb…,MISC,,,de,1.9
+THW-Hunde,THW-Hunde,MISC,,,de,1.9
+indischen,indischen,MISC,,,de,1.9
+E…,E…,MISC,,,de,1.9
 Neujahrstag,Neujahrstag,MISC,,,de,1.9
-nordtürkischer,nordtürkischer,MISC,,,de,1.9
-Supervulkan“,Supervulkan“,MISC,,,de,1.9
+Erdbebe…,Erdbebe…,MISC,,,de,1.9
+OpenAI,OpenAI,MISC,,,de,1.9
+sächsischen,sächsischen,MISC,,,de,1.9
 Einsturzes,Einsturzes,MISC,,,de,1.8
+Erdbeb…,Erdbeb…,MISC,,,de,1.8
 Erdbeben auf den Philippinen“,Erdbeben auf den Philippinen“,MISC,,,de,1.8
 philippinischen,philippinischen,MISC,,,de,1.8
-Erdbeb…,Erdbeb…,MISC,,,de,1.8
-Ze…,Ze…,MISC,,,de,1.7
 F…,F…,MISC,,,de,1.7
 Rettungskräfte bargen am Mittag,Rettungskräfte bargen am Mittag,MISC,,,de,1.7
+Ze…,Ze…,MISC,,,de,1.7
 mittelalterlichen,mittelalterlichen,MISC,,,de,1.6000000000000005
 Femonationalistisch“,Femonationalistisch“,MISC,,,de,1.3000000000000003
 rumänischer,rumänischer,MISC,,,de,1.2000000000000002
+mittelalterlichem,mittelalterlichem,MISC,,,de,1.1
+Macho-Migranten,Macho-Migranten,MISC,,,de,1.1
+spanischen,spanischen,MISC,,,de,1.1
 Türkische,Türkische,MISC,,,de,1.1
 sons…,sons…,MISC,,,de,1.1
-mittelalterlichem,mittelalterlichem,MISC,,,de,1.1
-spanischen,spanischen,MISC,,,de,1.1
-Macho-Migranten,Macho-Migranten,MISC,,,de,1.1
-pakistanische,pakistanische,MISC,,,de,1.0
-gemess…,gemess…,MISC,,,de,1.0
-Zuflucht im Maisfeld,Zuflucht im Maisfeld,MISC,,,de,1.0
-Der tödliche Angriff auf Charlie Kirk,Der tödliche Angriff auf Charlie Kirk,MISC,,,de,1.0
-Erdbeben-Opfer,Erdbeben-Opfer,MISC,0.0,0.0,de,1.0
 Die Sucheinsätze,Die Sucheinsätze,MISC,,,de,1.0
-Zugunglück im Juni 2022,Zugunglück im Juni 2022,MISC,,,de,1.0
-Hackerangriff,Hackerangriff,MISC,,,de,1.0
-Erdbebens in Afghanistan,Erdbebens in Afghanistan,MISC,0.0,0.0,de,1.0
-Das Ausmaß der Katastrophe,Das Ausmaß der Katastrophe,MISC,,,de,1.0
-Wei…,Wei…,MISC,,,de,1.0
-Katastro… Kopiere,Katastro… Kopiere,MISC,,,de,1.0
-Die Opferzahl bei der Erdbebenkatastrophe,Die Opferzahl bei der Erdbebenkatastrophe,MISC,,,de,1.0
-Attentat,Attentat,MISC,,,de,1.0
-Du…,Du…,MISC,,,de,1.0
-Deutsch…,Deutsch…,MISC,,,de,1.0
-Das Beben überraschte die Menschen in der und,Das Beben überraschte die Menschen in der und,MISC,,,de,1.0
-di…,di…,MISC,0.0,0.0,de,1.0
-geschundenes Land…,geschundenes Land…,MISC,,,de,1.0
-"Magnitude 2,3","Magnitude 2,3",MISC,,,de,1.0
-Katastrophenschutzes,Katastrophenschutzes,MISC,,,de,1.0
-Mensc…,Mensc…,MISC,,,de,1.0
-Der tödliche Angriff auf,Der tödliche Angriff auf,MISC,,,de,1.0
-Horror-Beben auf den Philippinen,Horror-Beben auf den Philippinen,MISC,,,de,1.0
-Afghanistan so erdbebengefährdet,Afghanistan so erdbebengefährdet,MISC,,,de,1.0
-Jakarta – Schweres Erdbeben auf den,Jakarta – Schweres Erdbeben auf den,MISC,,,de,1.0
 h…,h…,MISC,,,de,1.0
+pakistanische,pakistanische,MISC,,,de,1.0
+Zuflucht im Maisfeld,Zuflucht im Maisfeld,MISC,,,de,1.0
+Katastro… Kopiere,Katastro… Kopiere,MISC,,,de,1.0
+Zugunglück im Juni 2022,Zugunglück im Juni 2022,MISC,,,de,1.0
 Rettern,Rettern,MISC,,,de,1.0
-Erdbeben-Toten,Erdbeben-Toten,MISC,,,de,1.0
 Berührungsverbot für Männer,Berührungsverbot für Männer,MISC,,,de,1.0
-u…,u…,MISC,,,de,1.0
-Video…,Video…,MISC,,,de,1.0
-Große Katastrophe,Große Katastrophe,MISC,,,de,1.0
-"Ein Erdbeben der Stärke 5,2","Ein Erdbeben der Stärke 5,2",MISC,,,de,1.0
-Das Ausmaß des heftigen Erdbebens auf den Philippinen,Das Ausmaß des heftigen Erdbebens auf den Philippinen,MISC,,,de,1.0
-Dienstag Griechenland,Dienstag Griechenland,MISC,0.7,0.0,de,1.0
+Todesopfer aus Trümmern,Todesopfer aus Trümmern,MISC,,,de,1.0
 Todesopfer auf über 2.200,Todesopfer auf über 2.200,MISC,,,de,1.0
-01.10.2025,01.10.2025,MISC,,,de,1.0
+Erdbeben-Toten,Erdbeben-Toten,MISC,,,de,1.0
+Afghanistan so erdbebengefährdet,Afghanistan so erdbebengefährdet,MISC,,,de,1.0
+israelische,israelische,MISC,,,de,1.0
 O…,O…,MISC,,,de,1.0
 Todesopfer nach dem verheerenden Erdbeben in Afghanistan,Todesopfer nach dem verheerenden Erdbeben in Afghanistan,MISC,,,de,1.0
-Todesopfer aus Trümmern,Todesopfer aus Trümmern,MISC,,,de,1.0
-Magnitude 1,Magnitude 1,MISC,,,de,1.0
-Forschungsteam,Forschungsteam,MISC,,,de,1.0
-Außenwelt,Außenwelt,MISC,,,de,1.0
 sch…,sch…,MISC,,,de,1.0
-Attentat das Potenzial,Attentat das Potenzial,MISC,,,de,1.0
-Risiko-Gebieten,Risiko-Gebieten,MISC,,,de,1.0
-Android-Handys,Android-Handys,MISC,,,de,1.0
-RTA“,RTA“,MISC,,,de,1.0
-Tsunami-Warnungen,Tsunami-Warnungen,MISC,-0.7,0.0,de,1.0
+u…,u…,MISC,,,de,1.0
+Außenwelt,Außenwelt,MISC,,,de,1.0
 Geologische Aktivität“,Geologische Aktivität“,MISC,,,de,1.0
-Android-Smartphones,Android-Smartphones,MISC,,,de,1.0
-Android-Handydaten,Android-Handydaten,MISC,,,de,1.0
-Google-Konzerns,Google-Konzerns,MISC,,,de,1.0
-Google Android-Handys,Google Android-Handys,MISC,,,de,1.0
-Neues Gesetz,Neues Gesetz,MISC,,,de,1.0
-Ukrainer,Ukrainer,MISC,,,de,1.0
-Bergsturz“,Bergsturz“,MISC,,,de,1.0
-Naturkatastrophen,Naturkatastrophen,MISC,0.0,0.0,de,1.0
-Küstenbewohner sind zur Vorsicht,Küstenbewohner sind zur Vorsicht,MISC,,,de,1.0
-"Erdbebens der Stärke 8,8","Erdbebens der Stärke 8,8",MISC,,,de,1.0
-Tsun…,Tsun…,MISC,,,de,1.0
-Tsunami-Welle,Tsunami-Welle,MISC,,,de,1.0
-Not…,Not…,MISC,,,de,1.0
-Fukushima-Katastrophe,Fukushima-Katastrophe,MISC,,,de,1.0
-"Ein schweres Erdbeben der Stärke 8,7","Ein schweres Erdbeben der Stärke 8,7",MISC,,,de,1.0
-Fukushima im Jahr 2011,Fukushima im Jahr 2011,MISC,,,de,1.0
-Tsunami russische Stadt,Tsunami russische Stadt,MISC,,,de,1.0
-Erdstöße ereig…,Erdstöße ereig…,MISC,,,de,1.0
-hawaiianischen,hawaiianischen,MISC,,,de,1.0
-Erdbeben lösen Tsunami-Warnung,Erdbeben lösen Tsunami-Warnung,MISC,,,de,1.0
-russische,russische,MISC,,,de,1.0
-Supervulkan Campi Flegrei,Supervulkan Campi Flegrei,MISC,,,de,1.0
-Campi Flegrei,Campi Flegrei,MISC,1.0,0.0,de,1.0
-Wear OS Smartwatches,Wear OS Smartwatches,MISC,,,de,1.0
-peruanischen,peruanischen,MISC,,,de,1.0
-Katastrophenschutzbehörde am Sonntag,Katastrophenschutzbehörde am Sonntag,MISC,,,de,1.0
-Mitten im Krieg mit Israel,Mitten im Krieg mit Israel,MISC,,,de,1.0
 Sonar-Bericht,Sonar-Bericht,MISC,,,de,1.0
+"Ein Erdbeben der Stärke 5,2","Ein Erdbeben der Stärke 5,2",MISC,,,de,1.0
+Katastrophenschutzbehörde am Sonntag,Katastrophenschutzbehörde am Sonntag,MISC,,,de,1.0
+Er…,Er…,MISC,,,de,1.0
+Der Wille des Wählers,Der Wille des Wählers,MISC,,,de,1.0
+Katastrophenschutzes,Katastrophenschutzes,MISC,,,de,1.0
+Erdbeben-Opfer,Erdbeben-Opfer,MISC,0.0,0.0,de,1.0
+Mensc…,Mensc…,MISC,,,de,1.0
+Das Ausmaß des heftigen Erdbebens auf den Philippinen,Das Ausmaß des heftigen Erdbebens auf den Philippinen,MISC,,,de,1.0
+peruanischen,peruanischen,MISC,,,de,1.0
+Jakarta – Schweres Erdbeben auf den,Jakarta – Schweres Erdbeben auf den,MISC,,,de,1.0
+Horror-Beben auf den Philippinen,Horror-Beben auf den Philippinen,MISC,,,de,1.0
+Video…,Video…,MISC,,,de,1.0
+Große Katastrophe,Große Katastrophe,MISC,,,de,1.0
+01.10.2025,01.10.2025,MISC,,,de,1.0
+gemess…,gemess…,MISC,,,de,1.0
+Du…,Du…,MISC,,,de,1.0
+Dienstag Griechenland,Dienstag Griechenland,MISC,0.7,0.0,de,1.0
+Mitten im Krieg mit Israel,Mitten im Krieg mit Israel,MISC,,,de,1.0
+"Magnitude 2,3","Magnitude 2,3",MISC,,,de,1.0
+di…,di…,MISC,0.0,0.0,de,1.0
+Deutsch…,Deutsch…,MISC,,,de,1.0
+Attentat,Attentat,MISC,,,de,1.0
 Naturkatas­trophen,Naturkatas­trophen,MISC,,,de,1.0
+Wei…,Wei…,MISC,,,de,1.0
+Der tödliche Angriff auf Charlie Kirk,Der tödliche Angriff auf Charlie Kirk,MISC,,,de,1.0
+Der tödliche Angriff auf,Der tödliche Angriff auf,MISC,,,de,1.0
+Attentat das Potenzial,Attentat das Potenzial,MISC,,,de,1.0
 CSU-„Erdbeben,CSU-„Erdbeben,MISC,,,de,1.0
-israelische,israelische,MISC,,,de,1.0
-Urlaubssaison,Urlaubssaison,MISC,,,de,1.0
-Phlegräischen…,Phlegräischen…,MISC,,,de,1.0
-Die Gefahr,Die Gefahr,MISC,,,de,1.0
-Sozialisten“ Zohran Mamdani,Sozialisten“ Zohran Mamdani,MISC,,,de,1.0
-Zehn Jahre nach dem,Zehn Jahre nach dem,MISC,,,de,1.0
-Denkmalschützer,Denkmalschützer,MISC,,,de,1.0
-Anwohnern,Anwohnern,MISC,,,de,1.0
-DeepSeek,DeepSeek,MISC,,,de,1.0
-Chatbot DeepSeek,Chatbot DeepSeek,MISC,,,de,1.0
-Erdstoß“,Erdstoß“,MISC,,,de,1.0
-Mittwo…,Mittwo…,MISC,,,de,1.0
-Ein schweres Erdbeben vor der Ostküste Russlands,Ein schweres Erdbeben vor der Ostküste Russlands,MISC,,,de,1.0
-Tsunamis,Tsunamis,MISC,-0.25,0.0,de,1.0
-Neue Erdbeben-Katastrophe sucht Afghanistan,Neue Erdbeben-Katastrophe sucht Afghanistan,MISC,,,de,1.0
-Millionenmet…,Millionenmet…,MISC,,,de,1.0
-Sandkörnchen,Sandkörnchen,MISC,,,de,1.0
-Die Bedrohung,Die Bedrohung,MISC,,,de,1.0
-Fu…,Fu…,MISC,,,de,1.0
-Russische,Russische,MISC,,,de,1.0
-Russische Atom-U-Boot-Basis,Russische Atom-U-Boot-Basis,MISC,,,de,1.0
-US-Bericht,US-Bericht,MISC,,,de,1.0
-GeoSphere Austria,GeoSphere Austria,MISC,-0.7,0.0,de,1.0
-Weltkatzentag,Weltkatzentag,MISC,,,de,1.0
-Westtürkei“,Westtürkei“,MISC,,,de,1.0
-Ein Toter,Ein Toter,MISC,,,de,1.0
-große Welle …,große Welle …,MISC,,,de,1.0
-"Ein Toter, Suche nach Verschütteten","Ein Toter, Suche nach Verschütteten",MISC,,,de,1.0
-serbischen,serbischen,MISC,,,de,1.0
-Vulkane,Vulkane,MISC,0.0,0.0,de,1.0
-Gr…,Gr…,MISC,,,de,1.0
-südamerikanischen,südamerikanischen,MISC,,,de,1.0
-ShakeNet,ShakeNet,MISC,,,de,1.0
-afghanischen,afghanischen,MISC,,,de,1.0
+Forschungsteam,Forschungsteam,MISC,,,de,1.0
+Magnitude 1,Magnitude 1,MISC,,,de,1.0
+Hackerangriff,Hackerangriff,MISC,,,de,1.0
 Provin…,Provin…,MISC,,,de,1.0
-Bachtar,Bachtar,MISC,-0.07751937984496124,0.0,de,1.0
-Erdbeben-Frühwarnsystem,Erdbeben-Frühwarnsystem,MISC,,,de,1.0
-Genial,Genial,MISC,,,de,1.0
-"Movement
-
- 
- ","Movement
-
- 
- ",MISC,,,de,1.0
-Pazifikraumes,Pazifikraumes,MISC,,,de,1.0
+Erdbebens in Afghanistan,Erdbebens in Afghanistan,MISC,0.0,0.0,de,1.0
+hawaiianischen,hawaiianischen,MISC,,,de,1.0
+"Erdbebens der Stärke 8,8","Erdbebens der Stärke 8,8",MISC,,,de,1.0
+Tsunamis,Tsunamis,MISC,-0.25,0.0,de,1.0
+große Welle …,große Welle …,MISC,,,de,1.0
 Ring of Fire,Ring of Fire,MISC,,,de,1.0
 WELT,WELT,MISC,,,de,1.0
 Das Schlimmste hinter uns,Das Schlimmste hinter uns,MISC,,,de,1.0
@@ -279,15 +209,84 @@ Fo…,Fo…,MISC,,,de,1.0
 Tsunami-Warnsystem,Tsunami-Warnsystem,MISC,,,de,1.0
 Katastrophenschutzmini…,Katastrophenschutzmini…,MISC,,,de,1.0
 Szenario,Szenario,MISC,,,de,1.0
+Ein schweres Erdbeben vor der Ostküste Russlands,Ein schweres Erdbeben vor der Ostküste Russlands,MISC,,,de,1.0
+Erdstöße ereig…,Erdstöße ereig…,MISC,,,de,1.0
+Das Ausmaß der Katastrophe,Das Ausmaß der Katastrophe,MISC,,,de,1.0
+Tsunami russische Stadt,Tsunami russische Stadt,MISC,,,de,1.0
+Android-Smartphones,Android-Smartphones,MISC,,,de,1.0
+Android-Handydaten,Android-Handydaten,MISC,,,de,1.0
+Google-Konzerns,Google-Konzerns,MISC,,,de,1.0
+Google Android-Handys,Google Android-Handys,MISC,,,de,1.0
+russische,russische,MISC,,,de,1.0
+Neues Gesetz,Neues Gesetz,MISC,,,de,1.0
+Ukrainer,Ukrainer,MISC,,,de,1.0
+Bergsturz“,Bergsturz“,MISC,,,de,1.0
+Naturkatastrophen,Naturkatastrophen,MISC,0.0,0.0,de,1.0
+Tsunami-Warnungen,Tsunami-Warnungen,MISC,-0.7,0.0,de,1.0
+Küstenbewohner sind zur Vorsicht,Küstenbewohner sind zur Vorsicht,MISC,,,de,1.0
+Tsun…,Tsun…,MISC,,,de,1.0
+Tsunami-Welle,Tsunami-Welle,MISC,,,de,1.0
+Supervulkan Campi Flegrei,Supervulkan Campi Flegrei,MISC,,,de,1.0
+Not…,Not…,MISC,,,de,1.0
+Fukushima-Katastrophe,Fukushima-Katastrophe,MISC,,,de,1.0
+"Ein schweres Erdbeben der Stärke 8,7","Ein schweres Erdbeben der Stärke 8,7",MISC,,,de,1.0
+Fukushima im Jahr 2011,Fukushima im Jahr 2011,MISC,,,de,1.0
+Campi Flegrei,Campi Flegrei,MISC,1.0,0.0,de,1.0
 Die…,Die…,MISC,,,de,1.0
+Mittwo…,Mittwo…,MISC,,,de,1.0
 Erdbebens im Pazifikraum,Erdbebens im Pazifikraum,MISC,,,de,1.0
 Millionen Menschen im Pazifikraum,Millionen Menschen im Pazifikraum,MISC,,,de,1.0
-Der Wille des Wählers,Der Wille des Wählers,MISC,,,de,1.0
-Macho-Kulturen,Macho-Kulturen,MISC,,,de,1.0
-Er…,Er…,MISC,,,de,1.0
-Irankriegs,Irankriegs,MISC,,,de,1.0
-Ätna,Ätna,MISC,0.0,0.0,de,1.0
-Italien-Urlauber,Italien-Urlauber,MISC,,,de,1.0
+Millionenmet…,Millionenmet…,MISC,,,de,1.0
+Ein Toter,Ein Toter,MISC,,,de,1.0
+"Ein Toter, Suche nach Verschütteten","Ein Toter, Suche nach Verschütteten",MISC,,,de,1.0
+serbischen,serbischen,MISC,,,de,1.0
+Vulkane,Vulkane,MISC,0.0,0.0,de,1.0
+Gr…,Gr…,MISC,,,de,1.0
+südamerikanischen,südamerikanischen,MISC,,,de,1.0
+ShakeNet,ShakeNet,MISC,,,de,1.0
+afghanischen,afghanischen,MISC,,,de,1.0
+Erdbeben lösen Tsunami-Warnung,Erdbeben lösen Tsunami-Warnung,MISC,,,de,1.0
+Bachtar,Bachtar,MISC,-0.07751937984496124,0.0,de,1.0
+Phlegräischen…,Phlegräischen…,MISC,,,de,1.0
+Neue Erdbeben-Katastrophe sucht Afghanistan,Neue Erdbeben-Katastrophe sucht Afghanistan,MISC,,,de,1.0
+Urlaubssaison,Urlaubssaison,MISC,,,de,1.0
+RTA“,RTA“,MISC,,,de,1.0
+Die Opferzahl bei der Erdbebenkatastrophe,Die Opferzahl bei der Erdbebenkatastrophe,MISC,,,de,1.0
+Risiko-Gebieten,Risiko-Gebieten,MISC,,,de,1.0
+geschundenes Land…,geschundenes Land…,MISC,,,de,1.0
+Das Beben überraschte die Menschen in der und,Das Beben überraschte die Menschen in der und,MISC,,,de,1.0
+Westtürkei“,Westtürkei“,MISC,,,de,1.0
+Die Gefahr,Die Gefahr,MISC,,,de,1.0
+Sozialisten“ Zohran Mamdani,Sozialisten“ Zohran Mamdani,MISC,,,de,1.0
+Die Bedrohung,Die Bedrohung,MISC,,,de,1.0
+Pazifikraumes,Pazifikraumes,MISC,,,de,1.0
+Erdstoß“,Erdstoß“,MISC,,,de,1.0
+"Movement
+
+ 
+ ","Movement
+
+ 
+ ",MISC,,,de,1.0
+Genial,Genial,MISC,,,de,1.0
+Android-Handys,Android-Handys,MISC,,,de,1.0
+Donnerstagnachmittag,Donnerstagnachmittag,MISC,,,de,1.0
+Sandkörnchen,Sandkörnchen,MISC,,,de,1.0
+Chatbot DeepSeek,Chatbot DeepSeek,MISC,,,de,1.0
+DeepSeek,DeepSeek,MISC,,,de,1.0
+Weltkatzentag,Weltkatzentag,MISC,,,de,1.0
+Anwohnern,Anwohnern,MISC,,,de,1.0
+Fu…,Fu…,MISC,,,de,1.0
+Denkmalschützer,Denkmalschützer,MISC,,,de,1.0
+Russische,Russische,MISC,,,de,1.0
+Zehn Jahre nach dem,Zehn Jahre nach dem,MISC,,,de,1.0
+Russische Atom-U-Boot-Basis,Russische Atom-U-Boot-Basis,MISC,,,de,1.0
+US-Bericht,US-Bericht,MISC,,,de,1.0
+GeoSphere Austria,GeoSphere Austria,MISC,-0.7,0.0,de,1.0
+Erdbeben-Frühwarnsystem,Erdbeben-Frühwarnsystem,MISC,,,de,1.0
+Gebäudes am Vormittag,Gebäudes am Vormittag,MISC,,,de,1.0
+Richtungswechsel“,Richtungswechsel“,MISC,,,de,1.0
+Opf…,Opf…,MISC,,,de,1.0
 Tag,Tag,MISC,-0.5,0.5,de,1.0
 Erdbeben bis zur Stärke,Erdbeben bis zur Stärke,MISC,,,de,1.0
 Erschütterun…,Erschütterun…,MISC,,,de,1.0
@@ -305,34 +304,34 @@ Ein Jahr nach der Erdbeben-Katastrophe,Ein Jahr nach der Erdbeben-Katastrophe,MI
 Iran-Kriegs,Iran-Kriegs,MISC,,,de,1.0
 Ein Jahr nach dem,Ein Jahr nach dem,MISC,,,de,1.0
 un…,un…,MISC,,,de,1.0
-Ber…,Ber…,MISC,,,de,1.0
+Ein Jahr später,Ein Jahr später,MISC,,,de,1.0
+Irankriegs,Irankriegs,MISC,,,de,1.0
+Italien-Urlauber,Italien-Urlauber,MISC,,,de,1.0
+Ätna,Ätna,MISC,0.0,0.0,de,1.0
 Ätna-Region,Ätna-Region,MISC,0.0,0.0,de,1.0
-Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
-burgenländischen Grenze,burgenländischen Grenze,MISC,,,de,1.0
-Amnesty International“,Amnesty International“,MISC,,,de,1.0
-Ein fast vergessener Handy-Titan,Ein fast vergessener Handy-Titan,MISC,,,de,1.0
+Googles Wear OS,Googles Wear OS,MISC,,,de,1.0
 Hello Moto“-Flüstern,Hello Moto“-Flüstern,MISC,,,de,1.0
 Amazon,Amazon,MISC,,,de,1.0
 V3,V3,MISC,,,de,1.0
 Kreuz mit den Eurobonds,Kreuz mit den Eurobonds,MISC,,,de,1.0
 europäische,europäische,MISC,,,de,1.0
 körperl…,körperl…,MISC,,,de,1.0
+burgenländischen Grenze,burgenländischen Grenze,MISC,,,de,1.0
 Umarmungen,Umarmungen,MISC,,,de,1.0
-"Ein Erdbeben der Stärke 2,4","Ein Erdbeben der Stärke 2,4",MISC,,,de,1.0
-Googles Wear OS,Googles Wear OS,MISC,,,de,1.0
 Google Wear OS,Google Wear OS,MISC,,,de,1.0
+Ber…,Ber…,MISC,,,de,1.0
 Erdbebenwarnungen,Erdbebenwarnungen,MISC,0.0,0.0,de,1.0
 Berlinale,Berlinale,MISC,,,de,1.0
 Die WELT,Die WELT,MISC,,,de,1.0
 ️ Die Technik,️ Die Technik,MISC,,,de,1.0
 Junge und Alte,Junge und Alte,MISC,,,de,1.0
 Ortenaukreis“,Ortenaukreis“,MISC,,,de,1.0
-Ein Jahr später,Ein Jahr später,MISC,,,de,1.0
+"Ein Erdbeben der Stärke 2,4","Ein Erdbeben der Stärke 2,4",MISC,,,de,1.0
+Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
 rannt…,rannt…,MISC,,,de,1.0
-06.02.2026,06.02.2026,MISC,,,de,1.0
-Opf…,Opf…,MISC,,,de,1.0
-Wissenschaft“,Wissenschaft“,MISC,,,de,1.0
-FelslaborForschende,FelslaborForschende,MISC,,,de,1.0
+Schweres Erdbeben erschüttert Afghanistan,Schweres Erdbeben erschüttert Afghanistan,MISC,,,de,1.0
+Amnesty International“,Amnesty International“,MISC,,,de,1.0
+Erdbeben L’Aquila,Erdbeben L’Aquila,MISC,,,de,1.0
 picture alliance/dpa/BedrettoLab/ETH Zürich,picture alliance/dpa/BedrettoLab/ETH Zürich,MISC,,,de,1.0
 einz…,einz…,MISC,,,de,1.0
 Ägäis“,Ägäis“,MISC,,,de,1.0
@@ -350,37 +349,37 @@ Zwei Tote,Zwei Tote,MISC,,,de,1.0
 We’re Going to Ibiza“,We’re Going to Ibiza“,MISC,,,de,1.0
 Were Going to Ibiza,Were Going to Ibiza,MISC,,,de,1.0
 Reuters Viralpress,Reuters Viralpress,MISC,,,de,1.0
+Cheops-Pyramide,Cheops-Pyramide,MISC,0.0,0.0,de,1.0
+mi…,mi…,MISC,,,de,1.0
+FelslaborForschende,FelslaborForschende,MISC,,,de,1.0
+Wissenschaft“,Wissenschaft“,MISC,,,de,1.0
 Mega-Erdbeben,Mega-Erdbeben,MISC,0.0,0.0,de,1.0
-Fidesz-Intendanten,Fidesz-Intendanten,MISC,,,de,1.0
-WELT-Wissc…,WELT-Wissc…,MISC,,,de,1.0
-Erdbebem eigentlich?</li><li,Erdbebem eigentlich?</li><li,MISC,,,de,1.0
-Schweres Erdbeben erschüttert Afghanistan,Schweres Erdbeben erschüttert Afghanistan,MISC,,,de,1.0
-Erdbeben L’Aquila,Erdbeben L’Aquila,MISC,,,de,1.0
+Ein heftiges Erdbeben e…,Ein heftiges Erdbeben e…,MISC,,,de,1.0
 Die tödlichste Torfabrik“,Die tödlichste Torfabrik“,MISC,,,de,1.0
 Parlamentswahl von Sonntag,Parlamentswahl von Sonntag,MISC,,,de,1.0
 Leipziger Volkszeitung,Leipziger Volkszeitung,MISC,,,de,1.0
 vorläufi…,vorläufi…,MISC,,,de,1.0
 "Ein Erdbeben der Stärke 7,5","Ein Erdbeben der Stärke 7,5",MISC,,,de,1.0
 Erde</li><li,Erde</li><li,MISC,,,de,1.0
+Erdbebem eigentlich?</li><li,Erdbebem eigentlich?</li><li,MISC,,,de,1.0
 Ein Geophysiker,Ein Geophysiker,MISC,,,de,1.0
-Das Risiko,Das Risiko,MISC,,,de,1.0
-Ein heftiges Erdbeben e…,Ein heftiges Erdbeben e…,MISC,,,de,1.0
 Sprache,Sprache,MISC,,,de,1.0
+Fidesz-Intendanten,Fidesz-Intendanten,MISC,,,de,1.0
 ViralPress20.04.2026,ViralPress20.04.2026,MISC,,,de,1.0
 Die Wahr…,Die Wahr…,MISC,,,de,1.0
 Spr…,Spr…,MISC,,,de,1.0
 Japanische,Japanische,MISC,,,de,1.0
 Erdbeben-Magnitude,Erdbeben-Magnitude,MISC,,,de,1.0
 lateinischen,lateinischen,MISC,,,de,1.0
+Das Risiko,Das Risiko,MISC,,,de,1.0
+WELT-Wissc…,WELT-Wissc…,MISC,,,de,1.0
+Ein fast vergessener Handy-Titan,Ein fast vergessener Handy-Titan,MISC,,,de,1.0
 Erdbebens,Erdbebens,MISC,0.0,0.0,de,1.0
-Drei Jahre nach Erdbeben“,Drei Jahre nach Erdbeben“,MISC,,,de,1.0
-Donnerstagnachmittag,Donnerstagnachmittag,MISC,,,de,1.0
-Jermak-Rücktritt,Jermak-Rücktritt,MISC,,,de,1.0
-Land am Hindukusch“,Land am Hindukusch“,MISC,,,de,1.0
-Erdbebengebiete,Erdbebengebiete,MISC,,,de,1.0
+Comeback“,Comeback“,MISC,,,de,1.0
+Schweres Erdbeben und Tsunami-Warnung,Schweres Erdbeben und Tsunami-Warnung,MISC,,,de,1.0
 Todesopfer auf mindestens 20,Todesopfer auf mindestens 20,MISC,,,de,1.0
-e…,e…,MISC,0.0,0.0,de,1.0
-Gebäudes am Vormittag,Gebäudes am Vormittag,MISC,,,de,1.0
+Macho-Kulturen,Macho-Kulturen,MISC,,,de,1.0
+Erdbeben-Warnungen,Erdbeben-Warnungen,MISC,,,de,1.0
 his…,his…,MISC,,,de,1.0
 Mittelalterlicher,Mittelalterlicher,MISC,,,de,1.0
 Tei…,Tei…,MISC,,,de,1.0
@@ -392,37 +391,37 @@ WM-Qua…,WM-Qua…,MISC,,,de,1.0
 VISIONS.de,VISIONS.de,MISC,,,de,1.0
 australischen,australischen,MISC,,,de,1.0
 "Ein Erdbeben der Stärke 3,4","Ein Erdbeben der Stärke 3,4",MISC,,,de,1.0
-Erdbeben in Bangladesch“,Erdbeben in Bangladesch“,MISC,,,de,1.0
 Zentral-Bangladesch,Zentral-Bangladesch,MISC,,,de,1.0
+Erdbeben in Bangladesch“,Erdbeben in Bangladesch“,MISC,,,de,1.0
 Regierung mitt…,Regierung mitt…,MISC,,,de,1.0
+iranische,iranische,MISC,,,de,1.0
+Jermak-Rücktritt,Jermak-Rücktritt,MISC,,,de,1.0
+Erdbebengebiete,Erdbebengebiete,MISC,,,de,1.0
+Land am Hindukusch“,Land am Hindukusch“,MISC,,,de,1.0
 Zwei Mikro-Erdbeben,Zwei Mikro-Erdbeben,MISC,,,de,1.0
-Erdbebendienst“,Erdbebendienst“,MISC,,,de,1.0
-Be…,Be…,MISC,0.0,0.0,de,1.0
-Manila,Manila,MISC,0.0,0.0,de,1.0
-Richtungswechsel“,Richtungswechsel“,MISC,,,de,1.0
-Comeback“,Comeback“,MISC,,,de,1.0
+Reis,Reis,MISC,,,de,1.0
 Atlantiks,Atlantiks,MISC,-1.0,0.0,de,1.0
 The Big Two,The Big Two,MISC,,,de,1.0
 Küstenregionen sol,Küstenregionen sol,MISC,,,de,1.0
 Erschütterung am Morgen,Erschütterung am Morgen,MISC,,,de,1.0
 Israels Kabinett,Israels Kabinett,MISC,,,de,1.0
 Israels Regierung,Israels Regierung,MISC,,,de,1.0
+Manila,Manila,MISC,0.0,0.0,de,1.0
 Sieben Tote,Sieben Tote,MISC,,,de,1.0
-stesa,stesa,MISC,,,de,1.0
-Reis,Reis,MISC,,,de,1.0
 Hochwasserschutz-Skandal,Hochwasserschutz-Skandal,MISC,,,de,1.0
+Erdbebendienst“,Erdbebendienst“,MISC,,,de,1.0
 Grollen,Grollen,MISC,,,de,1.0
 Oste…,Oste…,MISC,,,de,1.0
 Drei Tote,Drei Tote,MISC,,,de,1.0
 Österreichischer,Österreichischer,MISC,,,de,1.0
 Katastrophe in Spanien“,Katastrophe in Spanien“,MISC,,,de,1.0
 Milliarden-Schäden,Milliarden-Schäden,MISC,0.0,0.0,de,1.0
-iranische,iranische,MISC,,,de,1.0
+stesa,stesa,MISC,,,de,1.0
+Be…,Be…,MISC,0.0,0.0,de,1.0
 Tsunami“,Tsunami“,MISC,,,de,1.0
-BILD-Recherche,BILD-Recherche,MISC,,,de,1.0
-Schweres Erdbeben und Tsunami-Warnung,Schweres Erdbeben und Tsunami-Warnung,MISC,,,de,1.0
-angericht…,angericht…,MISC,,,de,1.0
-tschechischen,tschechischen,MISC,,,de,1.0
+Tsunami-Gefahr,Tsunami-Gefahr,MISC,0.0,0.0,de,1.0
+06.02.2026,06.02.2026,MISC,,,de,1.0
+Schwaches Erdbeben“,Schwaches Erdbeben“,MISC,,,de,1.0
 Eine Fra…,Eine Fra…,MISC,,,de,1.0
 Dreikönigstag,Dreikönigstag,MISC,,,de,1.0
 Die Toten,Die Toten,MISC,,,de,1.0
@@ -440,31 +439,33 @@ Jahr 130 Erdbeben,Jahr 130 Erdbeben,MISC,,,de,1.0
 Bilanz des Jahres,Bilanz des Jahres,MISC,,,de,1.0
 steirischen,steirischen,MISC,,,de,1.0
 Der große Erdbeben-Atlas für Deutschland,Der große Erdbeben-Atlas für Deutschland,MISC,,,de,1.0
+BILD-Recherche,BILD-Recherche,MISC,,,de,1.0
+Drei Jahre nach Erdbeben“,Drei Jahre nach Erdbeben“,MISC,,,de,1.0
+tschechischen,tschechischen,MISC,,,de,1.0
+angericht…,angericht…,MISC,,,de,1.0
 Das neue Jahr,Das neue Jahr,MISC,,,de,1.0
-sächsische,sächsische,MISC,,,de,1.0
-Mega-Serie,Mega-Serie,MISC,,,de,1.0
-SchottlandEx-Bundesliga-Keeper,SchottlandEx-Bundesliga-Keeper,MISC,,,de,1.0
-Tsunami-Gefahr,Tsunami-Gefahr,MISC,0.0,0.0,de,1.0
-Schwaches Erdbeben“,Schwaches Erdbeben“,MISC,,,de,1.0
+AfD-Wähler,AfD-Wähler,MISC,,,de,1.0
 Regi…,Regi…,MISC,,,de,1.0
 dr…,dr…,MISC,,,de,1.0
 Aufruf de…,Aufruf de…,MISC,,,de,1.0
 schottischen,schottischen,MISC,,,de,1.0
 Hearts of Midlothian,Hearts of Midlothian,MISC,,,de,1.0
 Weihnachten,Weihnachten,MISC,,,de,1.0
+SchottlandEx-Bundesliga-Keeper,SchottlandEx-Bundesliga-Keeper,MISC,,,de,1.0
 Erdbeben- und Tsunami-Katastrophe,Erdbeben- und Tsunami-Katastrophe,MISC,,,de,1.0
-Geologische Zeitbombe,Geologische Zeitbombe,MISC,,,de,1.0
-AfD-Wähler,AfD-Wähler,MISC,,,de,1.0
 … Buch,… Buch,MISC,,,de,1.0
+sächsische,sächsische,MISC,,,de,1.0
 FAZ-Gespräch,FAZ-Gespräch,MISC,,,de,1.0
 27.12.2025,27.12.2025,MISC,,,de,1.0
 Reuters,Reuters,MISC,0.0,0.0,de,1.0
 Taiwan Alarm,Taiwan Alarm,MISC,,,de,1.0
 taiwanesischen,taiwanesischen,MISC,,,de,1.0
 Kilome…,Kilome…,MISC,,,de,1.0
-Erdbeben-Warnungen,Erdbeben-Warnungen,MISC,,,de,1.0
-Phlegräischen Fel…,Phlegräischen Fel…,MISC,,,de,1.0
-Special: Wissenschaft,Special: Wissenschaft,MISC,,,de,1.0
+Geologische Zeitbombe,Geologische Zeitbombe,MISC,,,de,1.0
+Mega-Serie,Mega-Serie,MISC,,,de,1.0
+Wear OS Smartwatches,Wear OS Smartwatches,MISC,,,de,1.0
+Urlaubsparadies Tsunami-Warnung,Urlaubsparadies Tsunami-Warnung,MISC,,,de,1.0
+e…,e…,MISC,0.0,0.0,de,1.0
 2 Tote ++ Verdächti,2 Tote ++ Verdächti,MISC,,,de,1.0
 afrikanischen,afrikanischen,MISC,,,de,1.0
 Sonntagnachmittag,Sonntagnachmittag,MISC,0.7,0.0,de,1.0
@@ -566,7 +567,7 @@ Hochhaus-Baustelle,Hochhaus-Baustelle,MISC,,,de,1.0
 G…,G…,MISC,,,de,1.0
 Todesopfer im Land,Todesopfer im Land,MISC,,,de,1.0
 hefti…,hefti…,MISC,,,de,1.0
-Österreichischem,Österreichischem,MISC,,,de,1.0
+VIDEO,VIDEO,MISC,,,de,1.0
 https://glowy-earthquakes.glitch.me/.,https://glowy-earthquakes.glitch.me/.,MISC,,,de,1.0
 chinesischer,chinesischer,MISC,,,de,1.0
 l…,l…,MISC,,,de,1.0
@@ -597,8 +598,8 @@ Todesopfer,Todesopfer,MISC,,,de,1.0
 Zeit w…,Zeit w…,MISC,,,de,1.0
 Internet,Internet,MISC,,,de,1.0
 Die Unterart Papilio machaon sylvina,Die Unterart Papilio machaon sylvina,MISC,,,de,1.0
-Inte…,Inte…,MISC,,,de,1.0
 Zentral-Kra…,Zentral-Kra…,MISC,,,de,1.0
+Inte…,Inte…,MISC,,,de,1.0
 Südpazifik s…,Südpazifik s…,MISC,,,de,1.0
 Vanuatus Nachbar…,Vanuatus Nachbar…,MISC,,,de,1.0
 Erdbeben mit vielen Toten,Erdbeben mit vielen Toten,MISC,,,de,1.0
@@ -649,7 +650,7 @@ Tabubruch",MISC,,,de,1.0
 Österreichischen,Österreichischen,MISC,,,de,1.0
 Ruckler,Ruckler,MISC,,,de,1.0
 Naturereignis“,Naturereignis“,MISC,,,de,1.0
-Starkes Erdbeben,Starkes Erdbeben,MISC,0.7,0.0,de,1.0
+Starkes Erdbeben,Starkes Erdbeben,MISC,0.2978723404255319,0.0,de,1.0
 Taiwan“,Taiwan“,MISC,,,de,1.0
 Wafer in …,Wafer in …,MISC,,,de,1.0
 R1,R1,MISC,,,de,1.0
@@ -667,10 +668,9 @@ Santorini,Santorini,MISC,-0.3684210526315789,0.0,de,1.0
 Erdbeben-Experten,Erdbeben-Experten,MISC,,,de,1.0
 Griechische,Griechische,MISC,,,de,1.0
 T…,T…,MISC,-1.2,0.5,de,1.0
-VIDEO,VIDEO,MISC,,,de,1.0
 Resonanzkatastrophe“,Resonanzkatastrophe“,MISC,,,de,1.0
-vo…,vo…,MISC,,,de,1.0
-Chinesischer,Chinesischer,MISC,,,de,1.0
+Special: Wissenschaft,Special: Wissenschaft,MISC,,,de,1.0
+Mittw…,Mittw…,MISC,,,de,1.0
 Dir…,Dir…,MISC,,,de,1.0
 Ti…,Ti…,MISC,,,de,1.0
 Lebens…,Lebens…,MISC,,,de,1.0
@@ -691,11 +691,11 @@ Angst vor Großbeben,Angst vor Großbeben,MISC,,,de,1.0
 Ein Mega-Beben,Ein Mega-Beben,MISC,,,de,1.0
 Deckenlampe,Deckenlampe,MISC,,,de,1.0
 Magnitude 7,Magnitude 7,MISC,,,de,1.0
+ecuadorianische,ecuadorianische,MISC,,,de,1.0
+Chinesischer,Chinesischer,MISC,,,de,1.0
 Erdbebens in San Diego,Erdbebens in San Diego,MISC,,,de,1.0
 Erdbeben-Video,Erdbeben-Video,MISC,,,de,1.0
-Buch“,Buch“,MISC,,,de,1.0
-Bürgerkrieg von Myanmar,Bürgerkrieg von Myanmar,MISC,,,de,1.0
-Staatsmedien,Staatsmedien,MISC,0.0,0.0,de,1.0
+Coup dEtat,Coup dEtat,MISC,,,de,1.0
 05.04.2025,05.04.2025,MISC,,,de,1.0
 Staatsfernseh…,Staatsfernseh…,MISC,,,de,1.0
 Jahrhundertkatastrophe“,Jahrhundertkatastrophe“,MISC,,,de,1.0
@@ -704,9 +704,9 @@ USAID-Helfer,USAID-Helfer,MISC,,,de,1.0
 KI,KI,MISC,,,de,1.0
 Das Wetter,Das Wetter,MISC,,,de,1.0
 Zehn Tage,Zehn Tage,MISC,,,de,1.0
-Coup dEtat,Coup dEtat,MISC,,,de,1.0
-Nachbeben“,Nachbeben“,MISC,,,de,1.0
+Bürgerkrieg von Myanmar,Bürgerkrieg von Myanmar,MISC,,,de,1.0
 Hölle“,Hölle“,MISC,,,de,1.0
+Buch“,Buch“,MISC,,,de,1.0
 Der Aufprall,Der Aufprall,MISC,,,de,1.0
 Donk,Donk,MISC,,,de,1.0
 Donk“,Donk“,MISC,,,de,1.0
@@ -715,11 +715,11 @@ Erbebenforscherin,Erbebenforscherin,MISC,,,de,1.0
 Forschun…,Forschun…,MISC,,,de,1.0
 Krieg,Krieg,MISC,,,de,1.0
 Den Kopf im falschen Moment,Den Kopf im falschen Moment,MISC,,,de,1.0
-ecuadorianische,ecuadorianische,MISC,,,de,1.0
-Mittw…,Mittw…,MISC,,,de,1.0
-ALt,ALt,MISC,,,de,1.0
+Nachbeben“,Nachbeben“,MISC,,,de,1.0
+vo…,vo…,MISC,,,de,1.0
 Eintracht-Profis,Eintracht-Profis,MISC,,,de,1.0
-Griechenland“,Griechenland“,MISC,,,de,1.0
+4508 wei…,4508 wei…,MISC,,,de,1.0
+Klub im Jahr 2015,Klub im Jahr 2015,MISC,,,de,1.0
 Erdbeben erschüttern griechisches Urlaubsparadies,Erdbeben erschüttern griechisches Urlaubsparadies,MISC,,,de,1.0
 kretischen,kretischen,MISC,,,de,1.0
 Pazifischer Feuerring,Pazifischer Feuerring,MISC,,,de,1.0
@@ -740,11 +740,11 @@ ri...,ri...,MISC,,,de,1.0
 hessischen,hessischen,MISC,,,de,1.0
 kolumbianische,kolumbianische,MISC,,,de,1.0
 Stä…,Stä…,MISC,,,de,1.0
+Österreichischem,Österreichischem,MISC,,,de,1.0
+Griechenland“,Griechenland“,MISC,,,de,1.0
 thailändischer,thailändischer,MISC,,,de,1.0
 türkischem,türkischem,MISC,,,de,1.0
-Getty,Getty,MISC,,,de,1.0
-Par…,Par…,MISC,,,de,1.0
-Klub im Jahr 2015,Klub im Jahr 2015,MISC,,,de,1.0
+Unterwasser-Vulkan,Unterwasser-Vulkan,MISC,,,de,1.0
 US-amerikanische,US-amerikanische,MISC,,,de,1.0
 Tsunami-Warnung“,Tsunami-Warnung“,MISC,,,de,1.0
 US-amerikanischen,US-amerikanischen,MISC,,,de,1.0
@@ -753,9 +753,9 @@ Die Tote,Die Tote,MISC,,,de,1.0
 Ohne Daten keine Forschung“,Ohne Daten keine Forschung“,MISC,,,de,1.0
 US-Klimadaten,US-Klimadaten,MISC,,,de,1.0
 amerikanischer,amerikanischer,MISC,,,de,1.0
-Unterwasser-Vulkan,Unterwasser-Vulkan,MISC,,,de,1.0
-Urlaubsparadies Tsunami-Warnung,Urlaubsparadies Tsunami-Warnung,MISC,,,de,1.0
+Par…,Par…,MISC,,,de,1.0
 Attacke …,Attacke …,MISC,,,de,1.0
+Getty,Getty,MISC,,,de,1.0
 Unschuldige Kinder,Unschuldige Kinder,MISC,,,de,1.0
 Menschen in Panik,Menschen in Panik,MISC,,,de,1.0
 Strassen,Strassen,MISC,-1.0,0.0,de,1.0
@@ -763,11 +763,12 @@ Phlegräischen Feldern,Phlegräischen Feldern,MISC,0.0,1.0526315789473684,de,1.0
 BANGKOK,BANGKOK,MISC,,,de,1.0
 May 13,May 13,MISC,,,de,1.0
 GLOBE,GLOBE,MISC,,,de,1.0
+Phlegräischen Fel…,Phlegräischen Fel…,MISC,,,de,1.0
 israelischer,israelischer,MISC,,,de,1.0
-4508 wei…,4508 wei…,MISC,,,de,1.0
+Staatsmedien,Staatsmedien,MISC,0.0,0.0,de,1.0
 südosta…,südosta…,MISC,,,de,1.0
-F1-Rennen,F1-Rennen,MISC,,,de,1.0
-Grand Prix,Grand Prix,MISC,,,de,1.0
+ALt,ALt,MISC,,,de,1.0
+Soziale,Soziale,MISC,,,de,1.0
 NEUSTEN ENTWICKLUNGEN,NEUSTEN ENTWICKLUNGEN,MISC,,,de,1.0
 Helfer Trümmerteile,Helfer Trümmerteile,MISC,,,de,1.0
 My…,My…,MISC,,,de,1.0
@@ -818,9 +819,9 @@ Myanmars Bürgerkrieg,Myanmars Bürgerkrieg,MISC,,,de,1.0
 Die Volksverteidigungskräfte,Die Volksverteidigungskräfte,MISC,,,de,1.0
 Erdbeben wollen Rebellen ihre Kämpfe gegen die Militärjunta,Erdbeben wollen Rebellen ihre Kämpfe gegen die Militärjunta,MISC,,,de,1.0
 Rennen gegen die Zeit,Rennen gegen die Zeit,MISC,,,de,1.0
-Soziale,Soziale,MISC,,,de,1.0
 Apple Chef Tim Cook,Apple Chef Tim Cook,MISC,,,de,1.0
-Du wolltest einen…,Du wolltest einen…,MISC,,,de,1.0
+F1-Rennen,F1-Rennen,MISC,,,de,1.0
+buddhistische,buddhistische,MISC,,,de,1.0
 niedersächsischen,niedersächsischen,MISC,,,de,1.0
 niedersächsische,niedersächsische,MISC,,,de,1.0
 chinesischen…,chinesischen…,MISC,,,de,1.0
@@ -830,8 +831,8 @@ Bürgerkriegs,Bürgerkriegs,MISC,,,de,1.0
 Bürgerkriegs tro,Bürgerkriegs tro,MISC,,,de,1.0
 Anders als …,Anders als …,MISC,,,de,1.0
 KI-generiert,KI-generiert,MISC,,,de,1.0
+Du wolltest einen…,Du wolltest einen…,MISC,,,de,1.0
 Hilferufe“,Hilferufe“,MISC,,,de,1.0
-Mann fünf Tage,Mann fünf Tage,MISC,,,de,1.0
 Militä…,Militä…,MISC,,,de,1.0
 To…,To…,MISC,,,de,1.0
 Sechs Tage,Sechs Tage,MISC,,,de,1.0
@@ -841,9 +842,10 @@ Rettungshunde,Rettungshunde,MISC,,,de,1.0
 Jahrhundertkatastrophe,Jahrhundertkatastrophe,MISC,,,de,1.0
 Erdbebens Daten,Erdbebens Daten,MISC,,,de,1.0
 Alle total in Panik“,Alle total in Panik“,MISC,,,de,1.0
+Grand Prix,Grand Prix,MISC,,,de,1.0
 Feu…,Feu…,MISC,,,de,1.0
-Todesopfer fünf Tage,Todesopfer fünf Tage,MISC,,,de,1.0
-buddhistische,buddhistische,MISC,,,de,1.0
+Mann fünf Tage,Mann fünf Tage,MISC,,,de,1.0
+Tragödie in Bangkok,Tragödie in Bangkok,MISC,,,de,1.0
 Menschenrechtsgruppe,Menschenrechtsgruppe,MISC,,,de,1.0
 Katastrophe in Südostasien“,Katastrophe in Südostasien“,MISC,,,de,1.0
 Bef…,Bef…,MISC,,,de,1.0
@@ -855,7 +857,7 @@ Kil…,Kil…,MISC,,,de,1.0
 USAID-Zerschlagung,USAID-Zerschlagung,MISC,,,de,1.0
 Gut zwan,Gut zwan,MISC,,,de,1.0
 betrof…,betrof…,MISC,,,de,1.0
-Tragödie in Bangkok,Tragödie in Bangkok,MISC,,,de,1.0
+Todesopfer fünf Tage,Todesopfer fünf Tage,MISC,,,de,1.0
 Machthaber General M…,Machthaber General M…,MISC,,,de,1.0
 Das Militärregime,Das Militärregime,MISC,,,de,1.0
 Erdbebenopfern,Erdbebenopfern,MISC,0.7,0.0,de,1.0
@@ -865,4 +867,4 @@ Todesopfer auf über 2700,Todesopfer auf über 2700,MISC,,,de,1.0
 Vorher-nachher-Vergleiche,Vorher-nachher-Vergleiche,MISC,,,de,1.0
 Erdbeben in Südostasien“,Erdbeben in Südostasien“,MISC,,,de,1.0
 Trü…,Trü…,MISC,0.0,1.0,de,1.0
-Cheops-Pyramide,Cheops-Pyramide,MISC,0.0,0.0,de,1.0
+Katastrophenschutz“,Katastrophenschutz“,MISC,,,de,1.0
