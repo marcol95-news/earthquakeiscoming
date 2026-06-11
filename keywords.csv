@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1359062084113759
 'Erdbeben Schäden',de,Impacts,#a89216,#87830f,2,0.1342297106707795
+'Erdbeben',de,Hazard,#4287f5,#638ed4,3,0.1286553503314877
 'Erdbeben Epizentrum',de,Hazard,#4287f5,#3b4a63,1,0.1201108991166808
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0938617368807719
 'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.0426597300756965
