@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'schweres Erdbeben',de,Hazard,#4287f5,#638ed4,2,0.0868928592878738
 'starkes Erdbeben',de,Hazard,#4287f5,#638ed4,1,0.0721445466199921
 'Erdbeben Verletzte',de,Impacts,#a89216,#87830f,2,0.0613120220275068
+'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.04579913621657645
 'Erdbeben Verwerfung',de,Causes,#679e2c,#7db344,1,0.0362434227745343
-'erdbebensicher',de,Mitigation,#9e3215,#802d16,1,0.030057542607737
 'Erdbeben Tote',de,Impacts,#a89216,#87830f,1,0.0284198914807361
 'Erdbeben Rettungsarbeiten',de,Mitigation,#9e3215,#b55035,1,0.0266763136682596
 'Erdbeben Überlebende',de,Mitigation,#9e3215,#9e3215,1,0.0193200363853062
